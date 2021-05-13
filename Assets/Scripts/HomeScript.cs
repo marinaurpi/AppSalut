@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HomeScript : MonoBehaviour
 {
-    public GameObject welcome;
+    public GameObject welcome, test1;
 
     // Start is called before the first frame update
     void Start()
@@ -21,5 +21,10 @@ public class HomeScript : MonoBehaviour
     public void welcomeState()
     {
         welcome.SetActive(false);
+    }
+
+    public void test1State()
+    {
+        test1.SetActive(true);
     }
 }

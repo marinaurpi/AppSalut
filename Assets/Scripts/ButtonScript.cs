@@ -25,4 +25,8 @@ public class ButtonScript : MonoBehaviour
     {
         SceneManager.LoadScene("Home");
     }
+    public void goTest1()
+    {
+        SceneManager.LoadScene("Test1");
+    }
 }
