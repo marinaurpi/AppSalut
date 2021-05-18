@@ -1577,10 +1577,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 428230191}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbbdede26fa706649a997db3091fbaf5, type: 3}
+  m_Script: {fileID: 11500000, guid: 50e50af3f758ff4409efda168c32bfaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  select: {fileID: 1631626039}
+  respostes:
+  - {fileID: 1631626039}
+  - {fileID: 604968551}
+  - {fileID: 1857227443}
+  res: {fileID: 1631626039}
 --- !u!114 &428230196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1626,8 +1630,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 428230195}
-        m_TargetAssemblyTypeName: SelectOption, Assembly-CSharp
-        m_MethodName: selectButton
+        m_TargetAssemblyTypeName: selectOneOptionScript, Assembly-CSharp
+        m_MethodName: selectResposta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3443,10 +3447,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 956354484}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbbdede26fa706649a997db3091fbaf5, type: 3}
+  m_Script: {fileID: 11500000, guid: 50e50af3f758ff4409efda168c32bfaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  select: {fileID: 1857227443}
+  respostes:
+  - {fileID: 1631626039}
+  - {fileID: 604968551}
+  - {fileID: 1857227443}
+  res: {fileID: 1857227443}
 --- !u!114 &956354489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3492,8 +3500,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 956354488}
-        m_TargetAssemblyTypeName: SelectOption, Assembly-CSharp
-        m_MethodName: selectButton
+        m_TargetAssemblyTypeName: selectOneOptionScript, Assembly-CSharp
+        m_MethodName: selectResposta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4505,10 +4513,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1345558244}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbbdede26fa706649a997db3091fbaf5, type: 3}
+  m_Script: {fileID: 11500000, guid: 50e50af3f758ff4409efda168c32bfaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  select: {fileID: 1437050784}
+  respostes:
+  - {fileID: 1375286926}
+  - {fileID: 248367399}
+  - {fileID: 1437050784}
+  res: {fileID: 1437050784}
 --- !u!114 &1345558249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4554,8 +4566,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1345558248}
-        m_TargetAssemblyTypeName: SelectOption, Assembly-CSharp
-        m_MethodName: selectButton
+        m_TargetAssemblyTypeName: selectOneOptionScript, Assembly-CSharp
+        m_MethodName: selectResposta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6102,10 +6114,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1760012845}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbbdede26fa706649a997db3091fbaf5, type: 3}
+  m_Script: {fileID: 11500000, guid: 50e50af3f758ff4409efda168c32bfaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  select: {fileID: 604968551}
+  respostes:
+  - {fileID: 1631626039}
+  - {fileID: 604968551}
+  - {fileID: 1857227443}
+  res: {fileID: 604968551}
 --- !u!114 &1760012850
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6151,8 +6167,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1760012849}
-        m_TargetAssemblyTypeName: SelectOption, Assembly-CSharp
-        m_MethodName: selectButton
+        m_TargetAssemblyTypeName: selectOneOptionScript, Assembly-CSharp
+        m_MethodName: selectResposta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7131,10 +7147,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 2056710969}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbbdede26fa706649a997db3091fbaf5, type: 3}
+  m_Script: {fileID: 11500000, guid: 50e50af3f758ff4409efda168c32bfaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  select: {fileID: 248367399}
+  respostes:
+  - {fileID: 1375286926}
+  - {fileID: 248367399}
+  - {fileID: 1437050784}
+  res: {fileID: 248367399}
 --- !u!114 &2056710974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7180,8 +7200,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2056710973}
-        m_TargetAssemblyTypeName: SelectOption, Assembly-CSharp
-        m_MethodName: selectButton
+        m_TargetAssemblyTypeName: selectOneOptionScript, Assembly-CSharp
+        m_MethodName: selectResposta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7464,10 +7484,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 2085915578}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbbdede26fa706649a997db3091fbaf5, type: 3}
+  m_Script: {fileID: 11500000, guid: 50e50af3f758ff4409efda168c32bfaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  select: {fileID: 1375286926}
+  respostes:
+  - {fileID: 1375286926}
+  - {fileID: 248367399}
+  - {fileID: 1437050784}
+  res: {fileID: 1375286926}
 --- !u!114 &2085915583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7513,8 +7537,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2085915582}
-        m_TargetAssemblyTypeName: SelectOption, Assembly-CSharp
-        m_MethodName: selectButton
+        m_TargetAssemblyTypeName: selectOneOptionScript, Assembly-CSharp
+        m_MethodName: selectResposta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
