@@ -9,6 +9,10 @@ TagManager:
   - butonsResultat
   - sliderResultat
   - emoticonsResultat
+  - home
+  - selfCare
+  - missions
+  - profile
   layers:
   - Default
   - TransparentFX

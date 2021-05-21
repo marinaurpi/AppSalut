@@ -24,7 +24,6 @@ public class SliderScript : MonoBehaviour
     public void ValueChange()
     {
         var cercle2 = cercle.GetComponent<Image>();
-        print(sliderObject.value);
         if (sliderObject.value >= 0 && sliderObject.value <= 0.5)
         {
             cercle2.sprite = emotiAngry;
