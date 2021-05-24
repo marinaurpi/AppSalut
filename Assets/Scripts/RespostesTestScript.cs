@@ -26,6 +26,7 @@ public class RespostesTestScript : MonoBehaviour
 
     public void ResultatsFinals()
     {
+        if (selectOneOptionScript.selected == true) { 
         for (var i = 0; i < resultats.Length; i++)
         {
             if (resultats[i].tag == "sliderResultat")
@@ -48,5 +49,6 @@ public class RespostesTestScript : MonoBehaviour
             }
         }
         respostesTotals = resultatsFinals;
+        }
     }
 }

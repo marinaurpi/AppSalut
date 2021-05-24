@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening;
 using System;
+using System.ComponentModel.Design;
 
 public class TestUIManager : MonoBehaviour
 {
@@ -22,16 +23,16 @@ public class TestUIManager : MonoBehaviour
     //Arreglar funcions de transicions per a que les opcions uniques es seleccioni alguna opcio obligatoriament abans de fer next i que quan tornin en radera estigui en true
     public void goNext()
     {
-        selectOneOptionScript.getValue();
         //print(selectOneOptionScript.selected);
         if (selectOneOptionScript.selected == true && exitPage.tag == "onlyOneOption")
         {
+            actualPage.gameObject.SetActive(true);
             actualPage.DOAnchorPos(Vector2.zero, 0.25f);
             exitPage.DOAnchorPos(new Vector2(-2000, 0), 0.25f);
-            selectOneOptionScript.setValue(false);
-        }
-        else if (exitPage.tag  == "multipleOptions")
+            //selectOneOptionScript.setValue(false);
+        }else if (exitPage.tag == "multipleOptions")
         {
+            actualPage.gameObject.SetActive(true);
             actualPage.DOAnchorPos(Vector2.zero, 0.25f);
             exitPage.DOAnchorPos(new Vector2(-2000, 0), 0.25f);
         }
@@ -40,12 +41,9 @@ public class TestUIManager : MonoBehaviour
 
     public void goBack()
     {
+        selectOneOptionScript.setValue(true);
         actualPage.DOAnchorPos(Vector2.zero, 0.25f);
-            exitPage.DOAnchorPos(new Vector2(2000, 0), 0.25f);
-        if (actualPage.tag == "onlyOneOption")
-        {
-            selectOneOptionScript.setValue(true);
-        }
+        exitPage.DOAnchorPos(new Vector2(2000, 0), 0.25f);
         
     }
 }
