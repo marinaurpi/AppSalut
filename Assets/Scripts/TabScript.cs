@@ -44,6 +44,9 @@ public class TabScript : MonoBehaviour
             }
         }
 
+        lastPanel.gameObject.SetActive(false);
+        actualPanel.gameObject.SetActive(true);
+
         if (indexActual>indexLast)
         {
             actualPanel.DOAnchorPos(Vector2.zero, 0.25f);
