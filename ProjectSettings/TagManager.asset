@@ -13,6 +13,9 @@ TagManager:
   - selfCare
   - missions
   - profile
+  - chageValueArray
+  - fonsSelected
+  - fonsNoSelected
   layers:
   - Default
   - TransparentFX

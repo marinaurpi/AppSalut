@@ -8,7 +8,7 @@ public class changePanelScript : MonoBehaviour
 {
     public RectTransform actualPanel;
     public RectTransform[] Panels;
-    static public string lastPanelName = "missionsPanel";
+    static public string lastPanelName = "ansietatPanel";
     RectTransform lastPanel;
     public Text actualText;
     public Text[] otherText;
