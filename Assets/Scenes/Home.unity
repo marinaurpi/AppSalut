@@ -22620,7 +22620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4da918acf7b05aa4bad4cc1d761befae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  exitPanel: {fileID: 1894035578}
+  exitPanel: {fileID: 1070219817}
   actualPanel: {fileID: 201349635}
 --- !u!114 &1365947559
 MonoBehaviour:
@@ -24601,7 +24601,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4da918acf7b05aa4bad4cc1d761befae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  exitPanel: {fileID: 1905458788}
+  exitPanel: {fileID: 1070219817}
   actualPanel: {fileID: 201349635}
 --- !u!114 &1497606365
 MonoBehaviour:
@@ -30298,7 +30298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4da918acf7b05aa4bad4cc1d761befae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  exitPanel: {fileID: 797426283}
+  exitPanel: {fileID: 1070219817}
   actualPanel: {fileID: 201349635}
 --- !u!114 &1818857201
 MonoBehaviour:
@@ -34881,7 +34881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4da918acf7b05aa4bad4cc1d761befae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  exitPanel: {fileID: 240979974}
+  exitPanel: {fileID: 1070219817}
   actualPanel: {fileID: 201349635}
 --- !u!114 &2114164008
 MonoBehaviour:
