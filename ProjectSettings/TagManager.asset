@@ -16,6 +16,9 @@ TagManager:
   - chageValueArray
   - fonsSelected
   - fonsNoSelected
+  - missionsNav
+  - selfCareNav
+  - profileNav
   layers:
   - Default
   - TransparentFX
