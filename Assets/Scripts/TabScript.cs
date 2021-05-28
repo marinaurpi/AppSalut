@@ -52,7 +52,7 @@ public class TabScript : MonoBehaviour
             actualPanel.DOAnchorPos(Vector2.zero, 0.25f);
             lastPanel.DOAnchorPos(new Vector2(-3500, 0), 0.25f);
         }
-        else
+        else if (indexActual < indexLast)
         {
             actualPanel.DOAnchorPos(Vector2.zero, 0.25f);
             lastPanel.DOAnchorPos(new Vector2(3500, 0), 0.25f);
