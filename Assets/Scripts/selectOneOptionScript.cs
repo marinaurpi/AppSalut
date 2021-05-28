@@ -18,13 +18,11 @@ public class selectOneOptionScript : MonoBehaviour
         respostesSelected = respostes;
         selectOption = false;
         selected = selectOption;
-        print(selected);
     }
 
     // Update is called once per frame
     void Update()
     {
-        print(selected);
     }
     public void selectResposta()
     {
