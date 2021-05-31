@@ -38,7 +38,6 @@ public class PopUpProfileScript : MonoBehaviour
         {
             if (panelsChangeValue[i].name == this.name)
             {
-                print(this.name);
                 panelsChangeValue[i].SetActive(true);
             }
         }

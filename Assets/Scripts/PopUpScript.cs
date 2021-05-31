@@ -15,7 +15,19 @@ public class PopUpScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        if (changeInputValue.tag != "chageValueArray")
+        {
+            //changeInputValue.GetComponent<Text>().text = "patata";
+            if (changeInputValue.GetComponentInParent<InputField>())
+            {
+                changeInputValue.GetComponentInParent<InputField>().text = actualInputValue.text;
+            }
+            else
+            {
+                changeInputValue.GetComponentInParent<Text>().text = actualInputValue.text;
+            }
+            
+        }
     }
 
     // Update is called once per frame
@@ -41,26 +53,25 @@ public class PopUpScript : MonoBehaviour
                             actualInputValue.text = arr1[i].GetComponentInChildren<Text>().text;
                         }
                     }
-                }
-                else
-                {
-                    actualInputValue.text = changeInputValue.GetComponent<Text>().text;
-                }
-
-                if (actualInputValue.text != "")
-                {
                     popUpPanel.SetActive(false);
-                    changeInputPassword.text = "";
-                    if (changeInputValue.tag != "chageValueArray")
-                    {
-                        changeInputValue.GetComponent<Text>().text = "";
-                    }
                     actualChangeValue.SetActive(false);
                 }
                 else
                 {
-                    print("Selecciona la nova opcio");
+                    actualInputValue.text = changeInputValue.GetComponent<Text>().text;
+                    if (changeInputValue.GetComponent<Text>().text != "")
+                    {
+                        popUpPanel.SetActive(false);
+                        changeInputPassword.text = "";
+                        actualChangeValue.SetActive(false);
+                    }
+                    else
+                    {
+                        print("Selecciona la nova opcio");
+                    }
                 }
+
+                
             }
             else
             {
@@ -81,24 +92,22 @@ public class PopUpScript : MonoBehaviour
                         actualInputValue.text = arr1[i].GetComponentInChildren<Text>().text;
                     }
                 }
-            }
-            else
-            {
-                actualInputValue.text = changeInputValue.GetComponent<Text>().text;
-            }
-
-            if (actualInputValue.text != "")
-            {
                 popUpPanel.SetActive(false);
-                if (changeInputValue.tag != "chageValueArray")
-                {
-                    changeInputValue.GetComponent<Text>().text = "";
-                }
                 actualChangeValue.SetActive(false);
             }
             else
             {
-                print("Selecciona la nova opcio");
+                actualInputValue.text = changeInputValue.GetComponent<Text>().text;
+
+                if (actualInputValue.text != "")
+                {
+                    popUpPanel.SetActive(false);
+                    actualChangeValue.SetActive(false);
+                }
+                else
+                {
+                    print("Selecciona la nova opcio");
+                }
             }
         }
         
@@ -111,7 +120,8 @@ public class PopUpScript : MonoBehaviour
         changeInputPassword.text = "";
         if (changeInputValue.tag != "chageValueArray")
         {
-            changeInputValue.GetComponent<Text>().text = "";
+            //changeInputValue.GetComponent<Text>().text = "";
+            //changeInputValue.GetComponentInParent<InputField>().text = "afbshfg";
         }
         actualChangeValue.SetActive(false);
     }

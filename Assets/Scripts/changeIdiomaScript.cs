@@ -20,6 +20,8 @@ public class changeIdiomaScript : MonoBehaviour
 
     public void changeIdioma()
     {
-        HomeScript.canviarIdioma(idiomaSelect.GetComponent<Text>().text);
+        string[] lang = new string[] { "CAT", "SPA", "ENG" };
+        int index = idiomaSelect.GetComponent<Dropdown>().value;
+        HomeScript.activeCanviarIdioma(lang[index]);
     }
 }

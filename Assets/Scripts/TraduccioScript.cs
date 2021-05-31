@@ -12,7 +12,7 @@ public class TraduccioScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        HomeScript.etiquetes.append(this);
+        HomeScript.etiquetes.Add(this);
     }
 
     // Update is called once per frame
@@ -34,7 +34,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = catala;
             }
         }
-        if (HomeScript.idioma == "SPA")
+        else if (HomeScript.idioma == "SPA")
         {
             if (isButton)
             {
@@ -45,7 +45,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = castella;
             }
         }
-        if (HomeScript.idioma == "ENG")
+        else if (HomeScript.idioma == "ENG")
         {
             if (isButton)
             {
