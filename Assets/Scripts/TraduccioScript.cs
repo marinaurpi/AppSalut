@@ -12,13 +12,13 @@ public class TraduccioScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        HomeScript.etiquetes.append(this);
     }
 
     // Update is called once per frame
     void Update()
     {
-        CanviarIdioma();
+        //CanviarIdioma();
     }
 
     public void CanviarIdioma()
@@ -56,5 +56,6 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = ingles;
             }
         }
+        else Debug.LogError("Idioma no trobat");
     }
 }
