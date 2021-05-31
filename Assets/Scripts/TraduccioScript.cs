@@ -23,7 +23,7 @@ public class TraduccioScript : MonoBehaviour
 
     public void CanviarIdioma()
     {
-        if (HomeScript.idioma == "Catal?")
+        if (HomeScript.idioma=="CAT")
         {
             if (isButton)
             {
@@ -34,7 +34,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = catala;
             }
         }
-        else if (HomeScript.idioma == "Castell?")
+        if (HomeScript.idioma == "SPA")
         {
             if (isButton)
             {
@@ -45,7 +45,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = castella;
             }
         }
-        else if (HomeScript.idioma == "Angl?s")
+        if (HomeScript.idioma == "ENG")
         {
             if (isButton)
             {
