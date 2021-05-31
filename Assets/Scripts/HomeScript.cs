@@ -6,7 +6,8 @@ public class HomeScript : MonoBehaviour
 {
     public GameObject welcome, test1;
     public static bool welcomeActive = true;
-    public static string idioma = "Català"; 
+    public static string idioma = "Catal?";
+    public static TraduccioScript[] etiquetes;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,14 @@ public class HomeScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    }
+
+    public static void canviarIdioma(string lang)
+    {
+        idioma = lang;
+        //TODO:  Avises a tots els bottons i labels
+        /*for (etiques):
+                e.CanviarIdioma()*/
     }
 
     public void welcomeState()

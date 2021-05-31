@@ -12,18 +12,18 @@ public class TraduccioScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        HomeScript.etiquetes.append(this);
     }
 
     // Update is called once per frame
     void Update()
     {
-        CanviarIdioma();
+        //CanviarIdioma();
     }
 
     public void CanviarIdioma()
     {
-        if (HomeScript.idioma=="Català")
+        if (HomeScript.idioma == "Catal?")
         {
             if (isButton)
             {
@@ -34,7 +34,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = catala;
             }
         }
-        if (HomeScript.idioma == "Castellà")
+        else if (HomeScript.idioma == "Castell?")
         {
             if (isButton)
             {
@@ -45,7 +45,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = castella;
             }
         }
-        if (HomeScript.idioma == "Anglès")
+        else if (HomeScript.idioma == "Angl?s")
         {
             if (isButton)
             {
@@ -56,5 +56,6 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = ingles;
             }
         }
+        else Debug.LogError("Idioma no trobat");
     }
 }

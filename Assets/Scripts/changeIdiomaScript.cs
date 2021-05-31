@@ -20,6 +20,6 @@ public class changeIdiomaScript : MonoBehaviour
 
     public void changeIdioma()
     {
-        HomeScript.idioma = idiomaSelect.GetComponent<Text>().text;
+        HomeScript.canviarIdioma(idiomaSelect.GetComponent<Text>().text);
     }
 }
