@@ -6,6 +6,9 @@ public class PopUpProfileScript : MonoBehaviour
 {
     public GameObject popup;
     public GameObject[] panelsChangeValue;
+    public bool ambContrassenya;
+    public static bool contrassenyaActive;
+    public GameObject contrassenya;
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +24,15 @@ public class PopUpProfileScript : MonoBehaviour
 
     public void changeValue()
     {
+        contrassenyaActive = ambContrassenya;
+        if (ambContrassenya)
+        {
+            contrassenya.SetActive(true);
+        }
+        else
+        {
+            contrassenya.SetActive(false);
+        }
         popup.SetActive(true);
         for (var i = 0; i < panelsChangeValue.Length; i++)
         {

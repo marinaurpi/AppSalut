@@ -27,7 +27,49 @@ public class PopUpScript : MonoBehaviour
     public void canviarValor()
     {
         //canviar valor del imput
-        if (actualInputPassword.text == changeInputPassword.text)
+        if (PopUpProfileScript.contrassenyaActive)
+        {
+            if (actualInputPassword.text == changeInputPassword.text)
+            {
+                if (changeInputValue.tag == "chageValueArray")
+                {
+                    var arr1 = changeInputValue.GetComponentsInChildren<RawImage>();
+                    for (var i = 0; i < arr1.Length; i++)
+                    {
+                        if (arr1[i].tag == "fonsSelected")
+                        {
+                            actualInputValue.text = arr1[i].GetComponentInChildren<Text>().text;
+                        }
+                    }
+                }
+                else
+                {
+                    actualInputValue.text = changeInputValue.GetComponent<Text>().text;
+                }
+
+                if (actualInputValue.text != "")
+                {
+                    popUpPanel.SetActive(false);
+                    changeInputPassword.text = "";
+                    if (changeInputValue.tag != "chageValueArray")
+                    {
+                        changeInputValue.GetComponent<Text>().text = "";
+                    }
+                    actualChangeValue.SetActive(false);
+                }
+                else
+                {
+                    print("Selecciona la nova opcio");
+                }
+            }
+            else
+            {
+                print("p1:" + actualInputPassword.text);
+                print("p2:" + changeInputPassword.text);
+                print("el password no es el mateix");
+            }
+        }
+        else
         {
             if (changeInputValue.tag == "chageValueArray")
             {
@@ -40,14 +82,14 @@ public class PopUpScript : MonoBehaviour
                     }
                 }
             }
-            else{
+            else
+            {
                 actualInputValue.text = changeInputValue.GetComponent<Text>().text;
             }
 
             if (actualInputValue.text != "")
             {
                 popUpPanel.SetActive(false);
-                changeInputPassword.text = "";
                 if (changeInputValue.tag != "chageValueArray")
                 {
                     changeInputValue.GetComponent<Text>().text = "";
@@ -59,12 +101,7 @@ public class PopUpScript : MonoBehaviour
                 print("Selecciona la nova opcio");
             }
         }
-        else
-        {
-            print("p1:" + actualInputPassword.text);
-            print("p2:" + changeInputPassword.text);
-            print("el password no es el mateix");
-        }
+        
         
     }
 
