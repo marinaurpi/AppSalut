@@ -6,6 +6,7 @@ public class HomeScript : MonoBehaviour
 {
     public GameObject welcome, test1;
     public static bool welcomeActive = true;
+    public static string idioma = "Català"; 
 
     // Start is called before the first frame update
     void Start()
