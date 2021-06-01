@@ -12,7 +12,7 @@ public class TraduccioScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        HomeScript.etiquetes.Add(this);
+        UIManeger.etiquetes.Add(this);
     }
 
     // Update is called once per frame
@@ -23,7 +23,7 @@ public class TraduccioScript : MonoBehaviour
 
     public void CanviarIdioma()
     {
-        if (HomeScript.idioma=="CAT")
+        if (UIManeger.idioma=="CAT")
         {
             if (isButton)
             {
@@ -34,7 +34,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = catala;
             }
         }
-        else if (HomeScript.idioma == "SPA")
+        else if (UIManeger.idioma == "SPA")
         {
             if (isButton)
             {
@@ -45,7 +45,7 @@ public class TraduccioScript : MonoBehaviour
                 GetComponent<Text>().text = castella;
             }
         }
-        else if (HomeScript.idioma == "ENG")
+        else if (UIManeger.idioma == "ENG")
         {
             if (isButton)
             {

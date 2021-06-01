@@ -1,17 +1,29 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Video;
 
 public class HomeScript : MonoBehaviour
 {
-    public GameObject welcome, test1;
     public static bool welcomeActive = true;
-    public static List<TraduccioScript> etiquetes = new List<TraduccioScript>();
-    public static string idioma;
+    public GameObject welcome, test1;
+    public GameObject avatar;
+    public GameObject fons;
+    public Texture[] fonsTexture;
+    public Texture[] avatarTexture;
+
+    /*public static List<TraduccioScript> etiquetes = new List<TraduccioScript>();
+    public static string idioma;*/
 
     // Start is called before the first frame update
     void Start()
     {
+        print("Fons: "+UserOptionManager.fons);
+        print("Avatar: " + UserOptionManager.avatar);
+        fons.GetComponent<RawImage>().texture = fonsTexture[UserOptionManager.fons];
+        avatar.GetComponent<RawImage>().texture = avatarTexture[UserOptionManager.avatar];
+
         if (welcomeActive)
         {
             welcome.SetActive(true);
@@ -25,15 +37,6 @@ public class HomeScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    }
-
-    public static void activeCanviarIdioma(string lang)
-    {
-        idioma = lang;
-        for (var i = 0; i<etiquetes.Count; i++)
-        {
-            etiquetes[i].CanviarIdioma();
-        }
     }
 
     public void welcomeState()

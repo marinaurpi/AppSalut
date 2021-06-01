@@ -6,7 +6,8 @@ using DG.Tweening;
 
 public class UserOptionManager : MonoBehaviour
 {
-    public RectTransform background, reptes, avatar;
+    public GameObject[] backgroundOptions, avatarOptions;
+    public static int fons, avatar;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,28 +19,22 @@ public class UserOptionManager : MonoBehaviour
     {
         
     }
-
-    public void goReptes()
+    
+    public void opcionsSeleccionades()
     {
-        reptes.DOAnchorPos(Vector2.zero, 0.25f);
-        background.DOAnchorPos(new Vector2(-6575, 0), 0.25f);
-    }
-
-    public void goAvatar()
-    {
-        avatar.DOAnchorPos(Vector2.zero, 0.25f);
-        reptes.DOAnchorPos(new Vector2(-6575, 0), 0.25f);
-    }
-
-    public void backBackground()
-    {
-        background.DOAnchorPos(Vector2.zero, 0.25f);
-        reptes.DOAnchorPos(new Vector2(6575, 0), 0.25f);
-    }
-
-    public void backReptes()
-    {
-        reptes.DOAnchorPos(Vector2.zero, 0.25f);
-        avatar.DOAnchorPos(new Vector2(6575, 0), 0.25f);
+        for (var i = 0; i < backgroundOptions.Length; i++)
+        {
+            if (backgroundOptions[i].active == true)
+            {
+                fons = i;
+            }
+        }
+        for (var j = 0; j < avatarOptions.Length; j++)
+        {
+            if (avatarOptions[j].active == true)
+            {
+                avatar = j;
+            }
+        }
     }
 }

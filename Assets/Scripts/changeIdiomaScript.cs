@@ -22,6 +22,6 @@ public class changeIdiomaScript : MonoBehaviour
     {
         string[] lang = new string[] { "CAT", "SPA", "ENG" };
         int index = idiomaSelect.GetComponent<Dropdown>().value;
-        HomeScript.activeCanviarIdioma(lang[index]);
+        UIManeger.activeCanviarIdioma(lang[index]);
     }
 }

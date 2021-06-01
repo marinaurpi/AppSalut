@@ -2734,7 +2734,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 13585, y: 0}
+  m_AnchoredPosition: {x: 9216, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &253484969
@@ -6623,7 +6623,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 3731, y: 2}
+  m_AnchoredPosition: {x: 2594.9976, y: 2}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &463795688
@@ -8213,7 +8213,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 7625, y: 0}
+  m_AnchoredPosition: {x: 5222, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &583568033
@@ -9490,6 +9490,7 @@ GameObject:
   - component: {fileID: 763165559}
   - component: {fileID: 763165558}
   - component: {fileID: 763165557}
+  - component: {fileID: 763165561}
   m_Layer: 5
   m_Name: Button (1)
   m_TagString: Untagged
@@ -9584,6 +9585,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 763165561}
+        m_TargetAssemblyTypeName: TestFinsihScript, Assembly-CSharp
+        m_MethodName: changePanel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &763165559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9622,6 +9635,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 763165555}
   m_CullTransparentMesh: 1
+--- !u!114 &763165561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 763165555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f90c0318a7ca63842b4e5da1ee044d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastPanel: missions
 --- !u!1 &765496803
 GameObject:
   m_ObjectHideFlags: 0
@@ -11576,7 +11602,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 11488.001, y: 0}
+  m_AnchoredPosition: {x: 7868, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &942625715
@@ -15107,6 +15133,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sliderObject: {fileID: 1319347766}
   cercle: {fileID: 1609755686}
+  barra: {fileID: 969581788}
+  barresColors:
+  - {fileID: 21300000, guid: 1ceaacd381987314aafcc10dc9e03c0b, type: 3}
+  - {fileID: 21300000, guid: c44a8afeaa26eb3439c75941fac938ae, type: 3}
+  - {fileID: 21300000, guid: 4c632c12a7903f34589d87090a1a587f, type: 3}
+  - {fileID: 21300000, guid: b6107182442e690448f37dc6b6de2ece, type: 3}
+  - {fileID: 21300000, guid: 4dcd279c9930c6c4e8446403ed8b205d, type: 3}
   emotiAngry: {fileID: 21300000, guid: 3d2ca1d71684805428593d3ddfb14520, type: 3}
   emotiAngry2: {fileID: 21300000, guid: 5fcfc0ac334903a40a348817aee8fe30, type: 3}
   emotyNormal: {fileID: 21300000, guid: cd00f60a563185f46906cc516d6a1414, type: 3}
@@ -16624,7 +16657,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 9502, y: 0}
+  m_AnchoredPosition: {x: 6552, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1412101708
@@ -17860,6 +17893,7 @@ GameObject:
   - component: {fileID: 1472489241}
   - component: {fileID: 1472489240}
   - component: {fileID: 1472489239}
+  - component: {fileID: 1472489243}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -17955,6 +17989,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1472489243}
+        m_TargetAssemblyTypeName: TestFinsihScript, Assembly-CSharp
+        m_MethodName: changePanel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1472489241
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17993,6 +18039,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1472489237}
   m_CullTransparentMesh: 1
+--- !u!114 &1472489243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1472489237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f90c0318a7ca63842b4e5da1ee044d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastPanel: missions
 --- !u!1 &1474936862
 GameObject:
   m_ObjectHideFlags: 0
@@ -18110,6 +18169,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sliderObject: {fileID: 1474936864}
   cercle: {fileID: 1446275887}
+  barra: {fileID: 1214542479}
+  barresColors:
+  - {fileID: 21300000, guid: 1ceaacd381987314aafcc10dc9e03c0b, type: 3}
+  - {fileID: 21300000, guid: c44a8afeaa26eb3439c75941fac938ae, type: 3}
+  - {fileID: 21300000, guid: 4c632c12a7903f34589d87090a1a587f, type: 3}
+  - {fileID: 21300000, guid: b6107182442e690448f37dc6b6de2ece, type: 3}
+  - {fileID: 21300000, guid: 4dcd279c9930c6c4e8446403ed8b205d, type: 3}
   emotiAngry: {fileID: 21300000, guid: 3d2ca1d71684805428593d3ddfb14520, type: 3}
   emotiAngry2: {fileID: 21300000, guid: 5fcfc0ac334903a40a348817aee8fe30, type: 3}
   emotyNormal: {fileID: 21300000, guid: cd00f60a563185f46906cc516d6a1414, type: 3}
@@ -20957,7 +21023,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1798, y: 2}
+  m_AnchoredPosition: {x: 1286, y: -4}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1676276609
@@ -22237,7 +22303,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 17351, y: 0}
+  m_AnchoredPosition: {x: 11906, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1835221938
@@ -23578,7 +23644,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 15541, y: 0}
+  m_AnchoredPosition: {x: 10569, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1937399748
@@ -24019,6 +24085,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sliderObject: {fileID: 1962263404}
   cercle: {fileID: 820901236}
+  barra: {fileID: 487276402}
+  barresColors:
+  - {fileID: 21300000, guid: 1ceaacd381987314aafcc10dc9e03c0b, type: 3}
+  - {fileID: 21300000, guid: c44a8afeaa26eb3439c75941fac938ae, type: 3}
+  - {fileID: 21300000, guid: 4c632c12a7903f34589d87090a1a587f, type: 3}
+  - {fileID: 21300000, guid: b6107182442e690448f37dc6b6de2ece, type: 3}
+  - {fileID: 21300000, guid: 4dcd279c9930c6c4e8446403ed8b205d, type: 3}
   emotiAngry: {fileID: 21300000, guid: 3d2ca1d71684805428593d3ddfb14520, type: 3}
   emotiAngry2: {fileID: 21300000, guid: 5fcfc0ac334903a40a348817aee8fe30, type: 3}
   emotyNormal: {fileID: 21300000, guid: cd00f60a563185f46906cc516d6a1414, type: 3}
@@ -25564,7 +25637,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5606, y: 2}
+  m_AnchoredPosition: {x: 3905, y: 2}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2092747326
@@ -25765,6 +25838,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sliderObject: {fileID: 2095686370}
   cercle: {fileID: 829193503}
+  barra: {fileID: 1533945536}
+  barresColors:
+  - {fileID: 21300000, guid: 1ceaacd381987314aafcc10dc9e03c0b, type: 3}
+  - {fileID: 21300000, guid: c44a8afeaa26eb3439c75941fac938ae, type: 3}
+  - {fileID: 21300000, guid: 4c632c12a7903f34589d87090a1a587f, type: 3}
+  - {fileID: 21300000, guid: b6107182442e690448f37dc6b6de2ece, type: 3}
+  - {fileID: 21300000, guid: 4dcd279c9930c6c4e8446403ed8b205d, type: 3}
   emotiAngry: {fileID: 21300000, guid: 3d2ca1d71684805428593d3ddfb14520, type: 3}
   emotiAngry2: {fileID: 21300000, guid: 5fcfc0ac334903a40a348817aee8fe30, type: 3}
   emotyNormal: {fileID: 21300000, guid: cd00f60a563185f46906cc516d6a1414, type: 3}

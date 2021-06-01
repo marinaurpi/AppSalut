@@ -30,11 +30,16 @@ public class TestUIManager : MonoBehaviour
             actualPage.DOAnchorPos(Vector2.zero, 0.25f);
             exitPage.DOAnchorPos(new Vector2(-2000, 0), 0.25f);
             //selectOneOptionScript.setValue(false);
-        }else if (exitPage.tag == "multipleOptions")
+        }
+        else if (exitPage.tag == "multipleOptions")
         {
             actualPage.gameObject.SetActive(true);
             actualPage.DOAnchorPos(Vector2.zero, 0.25f);
             exitPage.DOAnchorPos(new Vector2(-2000, 0), 0.25f);
+        }
+        else
+        {
+            Debug.LogWarning("Selecciona un dels botons per poder seguir.");
         }
 
     }

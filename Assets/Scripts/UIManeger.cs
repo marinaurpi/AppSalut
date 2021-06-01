@@ -8,6 +8,8 @@ public class UIManeger : MonoBehaviour
 {
     public RectTransform login, register;
     public GameObject snap, toogle;
+    public static List<TraduccioScript> etiquetes = new List<TraduccioScript>();
+    public static string idioma;
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +23,15 @@ public class UIManeger : MonoBehaviour
         
     }
 
+    public static void activeCanviarIdioma(string lang)
+    {
+        idioma = lang;
+        for (var i = 0; i < etiquetes.Count; i++)
+        {
+            etiquetes[i].CanviarIdioma();
+        }
+
+    }
     public void goLogin()
     {
         snap.SetActive(false);

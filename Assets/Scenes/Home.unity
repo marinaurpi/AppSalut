@@ -695,13 +695,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce4931f4aa191cb43b4cf214d482a7ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 41373229}
-  iconSelected: {fileID: 21300000, guid: 4bff6b008a6e1b6419519f7b8e487633, type: 3}
-  otherIcons:
+  Icons:
+  - {fileID: 41373229}
   - {fileID: 718051044}
   - {fileID: 1530222124}
   - {fileID: 707783894}
-  otherIconsSelected:
+  IconsSelected:
+  - {fileID: 21300000, guid: 4bff6b008a6e1b6419519f7b8e487633, type: 3}
+  - {fileID: 21300000, guid: 42901aa1e2dce714cbfd8477f6a5a495, type: 3}
+  - {fileID: 21300000, guid: 3b143196c09741045b99252f38a219ab, type: 3}
+  - {fileID: 21300000, guid: 289edce489e1e2e4dad2a32faf948644, type: 3}
+  IconsNotSelected:
+  - {fileID: 21300000, guid: 0b66269bc0b60d948ae5219a9a72a5fe, type: 3}
   - {fileID: 21300000, guid: 3b2579d9eef35e240a6b60c7b41c11c3, type: 3}
   - {fileID: 21300000, guid: 215498ef1572fae4cbb9f4608fe07239, type: 3}
   - {fileID: 21300000, guid: 2a438c34732edfb47ba6f9bf3d5bcadf, type: 3}
@@ -3992,8 +3997,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1094074015}
   - {fileID: 663882120}
+  - {fileID: 1094074015}
   - {fileID: 1504918544}
   - {fileID: 740689983}
   - {fileID: 1157522479}
@@ -4274,7 +4279,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.82484835}
   m_AnchorMax: {x: 1, y: 0.8322422}
-  m_AnchoredPosition: {x: 5.3632812, y: 2.798172}
+  m_AnchoredPosition: {x: 5.3632812, y: 2.7981567}
   m_SizeDelta: {x: -299.32825, y: 2.7099915}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &213366271
@@ -4761,7 +4766,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.749}
-  m_AnchoredPosition: {x: 4683, y: -39.9599}
+  m_AnchoredPosition: {x: 4683, y: -39.95996}
   m_SizeDelta: {x: 0, y: 97.16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &240979975
@@ -5036,7 +5041,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   popUpPanel: {fileID: 39023839}
-  actualInputValue: {fileID: 1088119323}
+  actualInputValue: {fileID: 1345012022}
   changeInputValue: {fileID: 37934488}
   actualInputPassword: {fileID: 1345012022}
   changeInputPassword: {fileID: 1106055118}
@@ -6712,19 +6717,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 358572940}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1368674025}
-        m_TargetAssemblyTypeName: HomeScript, Assembly-CSharp
-        m_MethodName: test1State
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &363334575
 GameObject:
   m_ObjectHideFlags: 0
@@ -7473,7 +7466,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Email
+  m_Text: Contrassenya nova
 --- !u!222 &426957983
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11956,7 +11949,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 201654945}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.66076756, y: 1}
   m_AnchorMax: {x: 0.66076756, y: 1}
@@ -13117,16 +13110,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce4931f4aa191cb43b4cf214d482a7ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 707783894}
-  iconSelected: {fileID: 21300000, guid: 289edce489e1e2e4dad2a32faf948644, type: 3}
-  otherIcons:
+  Icons:
   - {fileID: 41373229}
   - {fileID: 718051044}
   - {fileID: 1530222124}
-  otherIconsSelected:
+  - {fileID: 707783894}
+  IconsSelected:
+  - {fileID: 21300000, guid: 4bff6b008a6e1b6419519f7b8e487633, type: 3}
+  - {fileID: 21300000, guid: 42901aa1e2dce714cbfd8477f6a5a495, type: 3}
+  - {fileID: 21300000, guid: 3b143196c09741045b99252f38a219ab, type: 3}
+  - {fileID: 21300000, guid: 289edce489e1e2e4dad2a32faf948644, type: 3}
+  IconsNotSelected:
   - {fileID: 21300000, guid: 0b66269bc0b60d948ae5219a9a72a5fe, type: 3}
   - {fileID: 21300000, guid: 3b2579d9eef35e240a6b60c7b41c11c3, type: 3}
   - {fileID: 21300000, guid: 215498ef1572fae4cbb9f4608fe07239, type: 3}
+  - {fileID: 21300000, guid: 2a438c34732edfb47ba6f9bf3d5bcadf, type: 3}
   Panels:
   - {fileID: 735249693}
   - {fileID: 1070219817}
@@ -13279,14 +13277,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce4931f4aa191cb43b4cf214d482a7ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 718051044}
-  iconSelected: {fileID: 21300000, guid: 42901aa1e2dce714cbfd8477f6a5a495, type: 3}
-  otherIcons:
+  Icons:
   - {fileID: 41373229}
+  - {fileID: 718051044}
   - {fileID: 1530222124}
   - {fileID: 707783894}
-  otherIconsSelected:
+  IconsSelected:
+  - {fileID: 21300000, guid: 4bff6b008a6e1b6419519f7b8e487633, type: 3}
+  - {fileID: 21300000, guid: 42901aa1e2dce714cbfd8477f6a5a495, type: 3}
+  - {fileID: 21300000, guid: 3b143196c09741045b99252f38a219ab, type: 3}
+  - {fileID: 21300000, guid: 289edce489e1e2e4dad2a32faf948644, type: 3}
+  IconsNotSelected:
   - {fileID: 21300000, guid: 0b66269bc0b60d948ae5219a9a72a5fe, type: 3}
+  - {fileID: 21300000, guid: 3b2579d9eef35e240a6b60c7b41c11c3, type: 3}
   - {fileID: 21300000, guid: 215498ef1572fae4cbb9f4608fe07239, type: 3}
   - {fileID: 21300000, guid: 2a438c34732edfb47ba6f9bf3d5bcadf, type: 3}
   Panels:
@@ -14074,7 +14077,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Confirma la contrassenya
+  m_Text: Confirma la contrassenya vella
 --- !u!222 &766751673
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14688,7 +14691,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.749}
-  m_AnchoredPosition: {x: 1626.0005, y: -39.4599}
+  m_AnchoredPosition: {x: 1626.0005, y: -39.45996}
   m_SizeDelta: {x: 0, y: 98.16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &797426284
@@ -15502,7 +15505,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5.355957, y: -31.062958}
+  m_AnchoredPosition: {x: 5.355957, y: -31.062927}
   m_SizeDelta: {x: -39.178345, y: 62.130005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &872901177
@@ -16967,7 +16970,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.33333334}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.7254902}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -18354,7 +18357,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_TextComponent: {fileID: 825950014}
   m_Placeholder: {fileID: 0}
@@ -18527,7 +18530,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 201654945}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -19377,7 +19380,7 @@ GameObject:
   - component: {fileID: 1127181467}
   - component: {fileID: 1127181466}
   m_Layer: 5
-  m_Name: InputEmail
+  m_Name: InputContrassenya
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19446,13 +19449,13 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 0}
   m_TextComponent: {fileID: 37934489}
   m_Placeholder: {fileID: 0}
-  m_ContentType: 6
+  m_ContentType: 0
   m_InputType: 0
   m_AsteriskChar: 42
-  m_KeyboardType: 7
+  m_KeyboardType: 0
   m_LineType: 0
   m_HideMobileInput: 0
-  m_CharacterValidation: 5
+  m_CharacterValidation: 0
   m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
@@ -21946,7 +21949,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_TextComponent: {fileID: 1101400319}
   m_Placeholder: {fileID: 0}
@@ -22670,6 +22673,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   welcome: {fileID: 312010946}
   test1: {fileID: 1033698161}
+  avatar: {fileID: 663882119}
+  fons: {fileID: 166221834}
+  fonsTexture:
+  - {fileID: 2800000, guid: 13d09b177aa6d1947b630bc51b9ac11c, type: 3}
+  - {fileID: 2800000, guid: 442a7cf10337e124583e5d27e83c3418, type: 3}
+  - {fileID: 2800000, guid: 110d286b1cd73ed43b5fff1fc8c59694, type: 3}
+  avatarTexture:
+  - {fileID: 2800000, guid: 8377c94bfb826274680399d2d4a4862a, type: 3}
+  - {fileID: 2800000, guid: 8377c94bfb826274680399d2d4a4862a, type: 3}
+  - {fileID: 2800000, guid: 3dc8376ddcafaec4990a6241a2ff96f4, type: 3}
 --- !u!4 &1368674026
 Transform:
   m_ObjectHideFlags: 0
@@ -24538,7 +24551,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Canvia el teu email
+  m_Text: Canvia la teva contrassenya
 --- !u!222 &1479801045
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25267,15 +25280,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce4931f4aa191cb43b4cf214d482a7ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  icon: {fileID: 1530222124}
-  iconSelected: {fileID: 21300000, guid: 3b143196c09741045b99252f38a219ab, type: 3}
-  otherIcons:
+  Icons:
   - {fileID: 41373229}
   - {fileID: 718051044}
+  - {fileID: 1530222124}
   - {fileID: 707783894}
-  otherIconsSelected:
+  IconsSelected:
+  - {fileID: 21300000, guid: 4bff6b008a6e1b6419519f7b8e487633, type: 3}
+  - {fileID: 21300000, guid: 42901aa1e2dce714cbfd8477f6a5a495, type: 3}
+  - {fileID: 21300000, guid: 3b143196c09741045b99252f38a219ab, type: 3}
+  - {fileID: 21300000, guid: 289edce489e1e2e4dad2a32faf948644, type: 3}
+  IconsNotSelected:
   - {fileID: 21300000, guid: 0b66269bc0b60d948ae5219a9a72a5fe, type: 3}
   - {fileID: 21300000, guid: 3b2579d9eef35e240a6b60c7b41c11c3, type: 3}
+  - {fileID: 21300000, guid: 215498ef1572fae4cbb9f4608fe07239, type: 3}
   - {fileID: 21300000, guid: 2a438c34732edfb47ba6f9bf3d5bcadf, type: 3}
   Panels:
   - {fileID: 735249693}
@@ -26299,7 +26317,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1583869561
 RectTransform:
   m_ObjectHideFlags: 0
@@ -26338,8 +26356,8 @@ MonoBehaviour:
   - {fileID: 415880334}
   - {fileID: 495397536}
   - {fileID: 600370893}
-  ambContrassenya: 0
-  contrassenya: {fileID: 0}
+  ambContrassenya: 1
+  contrassenya: {fileID: 216443245}
 --- !u!114 &1583869563
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30087,6 +30105,7 @@ GameObject:
   - component: {fileID: 1825654735}
   - component: {fileID: 1825654737}
   - component: {fileID: 1825654736}
+  - component: {fileID: 1825654738}
   m_Layer: 5
   m_Name: RawImage (4)
   m_TagString: Untagged
@@ -30149,6 +30168,62 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1825654734}
   m_CullTransparentMesh: 1
+--- !u!114 &1825654738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825654734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1825654736}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1368674025}
+        m_TargetAssemblyTypeName: HomeScript, Assembly-CSharp
+        m_MethodName: test1State
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1834573179
 GameObject:
   m_ObjectHideFlags: 0
@@ -30728,7 +30803,7 @@ GameObject:
   - component: {fileID: 1879263538}
   - component: {fileID: 1879263537}
   m_Layer: 5
-  m_Name: CanviarEmail
+  m_Name: CanviarContrassenya
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30909,7 +30984,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.749}
-  m_AnchoredPosition: {x: 0, y: -39.99994}
+  m_AnchoredPosition: {x: 0, y: -40}
   m_SizeDelta: {x: 0, y: 97.07999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1894035579
@@ -31061,7 +31136,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.749}
-  m_AnchoredPosition: {x: 3187.0005, y: -40.4599}
+  m_AnchoredPosition: {x: 3187.0005, y: -40.45996}
   m_SizeDelta: {x: 0, y: 96.16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1905458789
@@ -31667,7 +31742,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1964954566
 RectTransform:
   m_ObjectHideFlags: 0
@@ -33287,7 +33362,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2044995020
 RectTransform:
   m_ObjectHideFlags: 0
@@ -35252,7 +35327,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   popUpPanel: {fileID: 39023839}
-  actualInputValue: {fileID: 159791681}
+  actualInputValue: {fileID: 1345012022}
   changeInputValue: {fileID: 37934488}
   actualInputPassword: {fileID: 1345012022}
   changeInputPassword: {fileID: 1106055118}

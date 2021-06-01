@@ -252,6 +252,7 @@ GameObject:
   - component: {fileID: 22848089}
   - component: {fileID: 22848088}
   - component: {fileID: 22848087}
+  - component: {fileID: 22848090}
   m_Layer: 0
   m_Name: Button (2)
   m_TagString: Untagged
@@ -322,9 +323,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1841718295}
-        m_TargetAssemblyTypeName: UserOptionManager, Assembly-CSharp
-        m_MethodName: backBackground
+      - m_Target: {fileID: 22848090}
+        m_TargetAssemblyTypeName: TestUIManager, Assembly-CSharp
+        m_MethodName: goBack
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -372,6 +373,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 22848085}
   m_CullTransparentMesh: 1
+--- !u!114 &22848090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 22848085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5964155ab18c2834e88234207c03d757, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  exitPage: {fileID: 1412626564}
+  actualPage: {fileID: 1596109002}
 --- !u!224 &39440065 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 224539642496863956, guid: 79e57417409b2684d8290b3109929fbf, type: 3}
@@ -990,6 +1005,7 @@ GameObject:
   - component: {fileID: 294383670}
   - component: {fileID: 294383669}
   - component: {fileID: 294383668}
+  - component: {fileID: 294383671}
   m_Layer: 0
   m_Name: Button (1)
   m_TagString: Untagged
@@ -1060,9 +1076,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1841718295}
-        m_TargetAssemblyTypeName: UserOptionManager, Assembly-CSharp
-        m_MethodName: backReptes
+      - m_Target: {fileID: 294383671}
+        m_TargetAssemblyTypeName: TestUIManager, Assembly-CSharp
+        m_MethodName: goBack
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1110,6 +1126,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 294383666}
   m_CullTransparentMesh: 1
+--- !u!114 &294383671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294383666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5964155ab18c2834e88234207c03d757, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  exitPage: {fileID: 1596109002}
+  actualPage: {fileID: 470110367}
 --- !u!1 &296165401
 GameObject:
   m_ObjectHideFlags: 0
@@ -1384,7 +1414,7 @@ GameObject:
   - component: {fileID: 428230196}
   - component: {fileID: 428230195}
   m_Layer: 0
-  m_Name: RawImage
+  m_Name: Marina
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1645,7 +1675,7 @@ GameObject:
   - component: {fileID: 470110368}
   m_Layer: 0
   m_Name: Background
-  m_TagString: Untagged
+  m_TagString: onlyOneOption
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1725,6 +1755,7 @@ GameObject:
   - component: {fileID: 512970391}
   - component: {fileID: 512970390}
   - component: {fileID: 512970389}
+  - component: {fileID: 512970392}
   m_Layer: 0
   m_Name: Button (3)
   m_TagString: Untagged
@@ -1796,9 +1827,21 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 512970392}
+        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
+        m_MethodName: goHome
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 1841718295}
         m_TargetAssemblyTypeName: UserOptionManager, Assembly-CSharp
-        m_MethodName: goAvatar
+        m_MethodName: opcionsSeleccionades
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1846,6 +1889,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 512970387}
   m_CullTransparentMesh: 1
+--- !u!114 &512970392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 512970387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 871ba28a77f31714bbe2dab35327dee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!224 &515652672 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 224539642496863956, guid: 79e57417409b2684d8290b3109929fbf, type: 3}
@@ -1935,7 +1990,7 @@ GameObject:
   - component: {fileID: 604968554}
   - component: {fileID: 604968553}
   m_Layer: 0
-  m_Name: RawImage (5)
+  m_Name: avatar_Silvia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2942,7 +2997,7 @@ GameObject:
   - component: {fileID: 956354489}
   - component: {fileID: 956354488}
   m_Layer: 0
-  m_Name: RawImage (2)
+  m_Name: Eco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3700,7 +3755,7 @@ GameObject:
   - component: {fileID: 1311012826}
   - component: {fileID: 1311012825}
   - component: {fileID: 1311012824}
-  - component: {fileID: 1311012827}
+  - component: {fileID: 1311012828}
   m_Layer: 0
   m_Name: Button (11)
   m_TagString: Untagged
@@ -3772,9 +3827,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1311012827}
-        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
-        m_MethodName: goHome
+      - m_Target: {fileID: 1311012828}
+        m_TargetAssemblyTypeName: TestUIManager, Assembly-CSharp
+        m_MethodName: goNext
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3822,7 +3877,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1311012822}
   m_CullTransparentMesh: 1
---- !u!114 &1311012827
+--- !u!114 &1311012828
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3831,9 +3886,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1311012822}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 871ba28a77f31714bbe2dab35327dee8, type: 3}
+  m_Script: {fileID: 11500000, guid: 5964155ab18c2834e88234207c03d757, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  exitPage: {fileID: 1596109002}
+  actualPage: {fileID: 1412626564}
 --- !u!1 &1340348700
 GameObject:
   m_ObjectHideFlags: 0
@@ -3929,7 +3986,7 @@ GameObject:
   - component: {fileID: 1345558249}
   - component: {fileID: 1345558248}
   m_Layer: 5
-  m_Name: Image (2)
+  m_Name: Cascada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4150,6 +4207,7 @@ GameObject:
   - component: {fileID: 1406448230}
   - component: {fileID: 1406448229}
   - component: {fileID: 1406448228}
+  - component: {fileID: 1406448231}
   m_Layer: 0
   m_Name: Button (2)
   m_TagString: Untagged
@@ -4221,9 +4279,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1841718295}
-        m_TargetAssemblyTypeName: UserOptionManager, Assembly-CSharp
-        m_MethodName: goReptes
+      - m_Target: {fileID: 1406448231}
+        m_TargetAssemblyTypeName: TestUIManager, Assembly-CSharp
+        m_MethodName: goNext
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4271,6 +4329,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1406448226}
   m_CullTransparentMesh: 1
+--- !u!114 &1406448231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1406448226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5964155ab18c2834e88234207c03d757, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  exitPage: {fileID: 470110367}
+  actualPage: {fileID: 1596109002}
 --- !u!1 &1412626563
 GameObject:
   m_ObjectHideFlags: 0
@@ -4284,11 +4356,11 @@ GameObject:
   - component: {fileID: 1412626565}
   m_Layer: 0
   m_Name: Reptes
-  m_TagString: Untagged
+  m_TagString: multipleOptions
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1412626564
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4316,7 +4388,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 6328, y: 6.7329135}
+  m_AnchoredPosition: {x: 2065, y: 6.73291}
   m_SizeDelta: {x: 2.5634766, y: 9.404541}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1412626565
@@ -4817,11 +4889,11 @@ GameObject:
   - component: {fileID: 1596109003}
   m_Layer: 0
   m_Name: Avatar
-  m_TagString: Untagged
+  m_TagString: onlyOneOption
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1596109002
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4843,7 +4915,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 9780.72, y: 6.7329135}
+  m_AnchoredPosition: {x: 2057.0005, y: 6.73291}
   m_SizeDelta: {x: -0.6411133, y: 7.935547}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1596109003
@@ -4896,7 +4968,7 @@ GameObject:
   - component: {fileID: 1631626042}
   - component: {fileID: 1631626041}
   m_Layer: 0
-  m_Name: RawImage (4)
+  m_Name: avatar_Marina
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5371,7 +5443,7 @@ GameObject:
   - component: {fileID: 1760012850}
   - component: {fileID: 1760012849}
   m_Layer: 0
-  m_Name: RawImage (1)
+  m_Name: Silvia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5720,9 +5792,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f0e4e9b881f65a4e885c424c97211ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  background: {fileID: 470110367}
-  reptes: {fileID: 1412626564}
-  avatar: {fileID: 1596109002}
+  backgroundOptions:
+  - {fileID: 1375286926}
+  - {fileID: 248367399}
+  - {fileID: 1437050784}
+  avatarOptions:
+  - {fileID: 1631626039}
+  - {fileID: 604968551}
+  - {fileID: 1857227443}
 --- !u!4 &1841718296
 Transform:
   m_ObjectHideFlags: 0
@@ -5749,7 +5826,7 @@ GameObject:
   - component: {fileID: 1857227446}
   - component: {fileID: 1857227445}
   m_Layer: 0
-  m_Name: RawImage (6)
+  m_Name: avatar_Eco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6400,7 +6477,7 @@ GameObject:
   - component: {fileID: 2056710974}
   - component: {fileID: 2056710973}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: Arbres
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6446,7 +6523,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a412cf29b6a268644abcce66e1fcc3d4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9541e8f97256285488b0c153dd00158e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6736,7 +6813,7 @@ GameObject:
   - component: {fileID: 2085915583}
   - component: {fileID: 2085915582}
   m_Layer: 5
-  m_Name: Image (3)
+  m_Name: Pedres
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6782,7 +6859,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9541e8f97256285488b0c153dd00158e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a412cf29b6a268644abcce66e1fcc3d4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
