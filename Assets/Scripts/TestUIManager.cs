@@ -9,6 +9,7 @@ using System.ComponentModel.Design;
 public class TestUIManager : MonoBehaviour
 {
     public RectTransform exitPage, actualPage;
+
     // Start is called before the first frame update
     void Start()
     {

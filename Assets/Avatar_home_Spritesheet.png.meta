@@ -1,0 +1,6104 @@
+fileFormatVersion: 2
+guid: 264b38f84088a4c99828542160b8d8da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4625149255695432385
+    second: Avatar_home_Spritesheet_0
+  - first:
+      213: -3617587354915163915
+    second: Avatar_home_Spritesheet_1
+  - first:
+      213: 7220812526251516401
+    second: Avatar_home_Spritesheet_2
+  - first:
+      213: -7121002249104526317
+    second: Avatar_home_Spritesheet_3
+  - first:
+      213: -1511799996357617582
+    second: Avatar_home_Spritesheet_4
+  - first:
+      213: 8428386195948681787
+    second: Avatar_home_Spritesheet_5
+  - first:
+      213: 2794745691962309173
+    second: Avatar_home_Spritesheet_6
+  - first:
+      213: 9207524350615579090
+    second: Avatar_home_Spritesheet_7
+  - first:
+      213: 3651063833336866725
+    second: Avatar_home_Spritesheet_8
+  - first:
+      213: 1624887718450699841
+    second: Avatar_home_Spritesheet_9
+  - first:
+      213: -2979351659126776606
+    second: Avatar_home_Spritesheet_10
+  - first:
+      213: 5969222642287581328
+    second: Avatar_home_Spritesheet_11
+  - first:
+      213: -4089724566850292661
+    second: Avatar_home_Spritesheet_12
+  - first:
+      213: 6896579863335912845
+    second: Avatar_home_Spritesheet_13
+  - first:
+      213: -8090875845612052051
+    second: Avatar_home_Spritesheet_14
+  - first:
+      213: -8453845110810032908
+    second: Avatar_home_Spritesheet_15
+  - first:
+      213: 2035996777261657871
+    second: Avatar_home_Spritesheet_16
+  - first:
+      213: 5432460942632490373
+    second: Avatar_home_Spritesheet_17
+  - first:
+      213: 4642254497945925396
+    second: Avatar_home_Spritesheet_18
+  - first:
+      213: -2796077677939270894
+    second: Avatar_home_Spritesheet_19
+  - first:
+      213: -2318011583410525945
+    second: Avatar_home_Spritesheet_20
+  - first:
+      213: -1272836420781965027
+    second: Avatar_home_Spritesheet_21
+  - first:
+      213: 7507324011368102077
+    second: Avatar_home_Spritesheet_22
+  - first:
+      213: 2304529000093220761
+    second: Avatar_home_Spritesheet_23
+  - first:
+      213: -8343575852505523192
+    second: Avatar_home_Spritesheet_24
+  - first:
+      213: -4515019563321282638
+    second: Avatar_home_Spritesheet_25
+  - first:
+      213: -1319089867628944743
+    second: Avatar_home_Spritesheet_26
+  - first:
+      213: 3951912493037583563
+    second: Avatar_home_Spritesheet_27
+  - first:
+      213: 5257086127521692967
+    second: Avatar_home_Spritesheet_28
+  - first:
+      213: -1218225174049844309
+    second: Avatar_home_Spritesheet_29
+  - first:
+      213: 5447676621684116542
+    second: Avatar_home_Spritesheet_30
+  - first:
+      213: -5491479032651730547
+    second: Avatar_home_Spritesheet_31
+  - first:
+      213: -6117977628615012566
+    second: Avatar_home_Spritesheet_32
+  - first:
+      213: 6402378562504835578
+    second: Avatar_home_Spritesheet_33
+  - first:
+      213: 8558911590969599653
+    second: Avatar_home_Spritesheet_34
+  - first:
+      213: -8498418043556169877
+    second: Avatar_home_Spritesheet_35
+  - first:
+      213: -671795888314510274
+    second: Avatar_home_Spritesheet_36
+  - first:
+      213: -6692733921331796687
+    second: Avatar_home_Spritesheet_37
+  - first:
+      213: 2710748995136816850
+    second: Avatar_home_Spritesheet_38
+  - first:
+      213: 4093118890147895611
+    second: Avatar_home_Spritesheet_39
+  - first:
+      213: -5402859278936794373
+    second: Avatar_home_Spritesheet_40
+  - first:
+      213: -7670288597933033532
+    second: Avatar_home_Spritesheet_41
+  - first:
+      213: 5079003792224541835
+    second: Avatar_home_Spritesheet_42
+  - first:
+      213: -1103086215048443730
+    second: Avatar_home_Spritesheet_43
+  - first:
+      213: 2306029800742191189
+    second: Avatar_home_Spritesheet_44
+  - first:
+      213: 6082842816971009282
+    second: Avatar_home_Spritesheet_45
+  - first:
+      213: 1774585728575592093
+    second: Avatar_home_Spritesheet_46
+  - first:
+      213: -1094563700084467916
+    second: Avatar_home_Spritesheet_47
+  - first:
+      213: 5993590079695128820
+    second: Avatar_home_Spritesheet_48
+  - first:
+      213: -8028482340749478151
+    second: Avatar_home_Spritesheet_49
+  - first:
+      213: -7758779829647211601
+    second: Avatar_home_Spritesheet_50
+  - first:
+      213: -2870447158858602780
+    second: Avatar_home_Spritesheet_51
+  - first:
+      213: -5086250098073606212
+    second: Avatar_home_Spritesheet_52
+  - first:
+      213: 8602053613565368267
+    second: Avatar_home_Spritesheet_53
+  - first:
+      213: -5159594626650943647
+    second: Avatar_home_Spritesheet_54
+  - first:
+      213: -6566628610980465848
+    second: Avatar_home_Spritesheet_55
+  - first:
+      213: -6371185304151140009
+    second: Avatar_home_Spritesheet_56
+  - first:
+      213: -8090747961245009989
+    second: Avatar_home_Spritesheet_57
+  - first:
+      213: -3314914112242596180
+    second: Avatar_home_Spritesheet_58
+  - first:
+      213: 6592252328268261700
+    second: Avatar_home_Spritesheet_59
+  - first:
+      213: 8515334855352706600
+    second: Avatar_home_Spritesheet_60
+  - first:
+      213: -3288112130409619694
+    second: Avatar_home_Spritesheet_61
+  - first:
+      213: -1782996137309505658
+    second: Avatar_home_Spritesheet_62
+  - first:
+      213: 1616724953447685224
+    second: Avatar_home_Spritesheet_63
+  - first:
+      213: -2381488308520195800
+    second: Avatar_home_Spritesheet_64
+  - first:
+      213: -2902440721716221217
+    second: Avatar_home_Spritesheet_65
+  - first:
+      213: 5281395384334848416
+    second: Avatar_home_Spritesheet_66
+  - first:
+      213: 641745678713998003
+    second: Avatar_home_Spritesheet_67
+  - first:
+      213: -4111396248281198917
+    second: Avatar_home_Spritesheet_68
+  - first:
+      213: -5151852967418903147
+    second: Avatar_home_Spritesheet_69
+  - first:
+      213: 8478515112104538079
+    second: Avatar_home_Spritesheet_70
+  - first:
+      213: -7929871641049060070
+    second: Avatar_home_Spritesheet_71
+  - first:
+      213: -4431562476798414081
+    second: Avatar_home_Spritesheet_72
+  - first:
+      213: -1498275916859566518
+    second: Avatar_home_Spritesheet_73
+  - first:
+      213: 8179303159141170622
+    second: Avatar_home_Spritesheet_74
+  - first:
+      213: 4810539874383963992
+    second: Avatar_home_Spritesheet_75
+  - first:
+      213: 979406491239733035
+    second: Avatar_home_Spritesheet_76
+  - first:
+      213: 7138207976604156965
+    second: Avatar_home_Spritesheet_77
+  - first:
+      213: -5820323341919646201
+    second: Avatar_home_Spritesheet_78
+  - first:
+      213: -1112523158021645884
+    second: Avatar_home_Spritesheet_79
+  - first:
+      213: 9156931298041789987
+    second: Avatar_home_Spritesheet_80
+  - first:
+      213: -6394815502653071955
+    second: Avatar_home_Spritesheet_81
+  - first:
+      213: -7441821482863244972
+    second: Avatar_home_Spritesheet_82
+  - first:
+      213: 2523345380914940230
+    second: Avatar_home_Spritesheet_83
+  - first:
+      213: -3027091382318151888
+    second: Avatar_home_Spritesheet_84
+  - first:
+      213: 9134244436784803124
+    second: Avatar_home_Spritesheet_85
+  - first:
+      213: 3544955259575794337
+    second: Avatar_home_Spritesheet_86
+  - first:
+      213: 3300245796779938854
+    second: Avatar_home_Spritesheet_87
+  - first:
+      213: 4593346005566189129
+    second: Avatar_home_Spritesheet_88
+  - first:
+      213: -5401940048771718276
+    second: Avatar_home_Spritesheet_89
+  - first:
+      213: -6320965133615845115
+    second: Avatar_home_Spritesheet_90
+  - first:
+      213: 2942776483360871460
+    second: Avatar_home_Spritesheet_91
+  - first:
+      213: -7075974071741835441
+    second: Avatar_home_Spritesheet_92
+  - first:
+      213: -5149299121444453242
+    second: Avatar_home_Spritesheet_93
+  - first:
+      213: -3283462168570055963
+    second: Avatar_home_Spritesheet_94
+  - first:
+      213: 1770088794996899917
+    second: Avatar_home_Spritesheet_95
+  - first:
+      213: 3631242726706756125
+    second: Avatar_home_Spritesheet_96
+  - first:
+      213: 6971303559236207732
+    second: Avatar_home_Spritesheet_97
+  - first:
+      213: -1654203665126780807
+    second: Avatar_home_Spritesheet_98
+  - first:
+      213: -6350627107368675784
+    second: Avatar_home_Spritesheet_99
+  - first:
+      213: 7769851674707939243
+    second: Avatar_home_Spritesheet_100
+  - first:
+      213: -2928297131513435524
+    second: Avatar_home_Spritesheet_101
+  - first:
+      213: -7982486506587011851
+    second: Avatar_home_Spritesheet_102
+  - first:
+      213: 3124978875107265786
+    second: Avatar_home_Spritesheet_103
+  - first:
+      213: 2325043675424434583
+    second: Avatar_home_Spritesheet_104
+  - first:
+      213: -5525413247891649588
+    second: Avatar_home_Spritesheet_105
+  - first:
+      213: -3519327528040522714
+    second: Avatar_home_Spritesheet_106
+  - first:
+      213: -7249558583434785530
+    second: Avatar_home_Spritesheet_107
+  - first:
+      213: -8658985023028994123
+    second: Avatar_home_Spritesheet_108
+  - first:
+      213: 8604903560559084746
+    second: Avatar_home_Spritesheet_109
+  - first:
+      213: -700338059810277613
+    second: Avatar_home_Spritesheet_110
+  - first:
+      213: 7419692396980207378
+    second: Avatar_home_Spritesheet_111
+  - first:
+      213: 1181772100632414661
+    second: Avatar_home_Spritesheet_112
+  - first:
+      213: 5453343953446806612
+    second: Avatar_home_Spritesheet_113
+  - first:
+      213: -7108416827176558298
+    second: Avatar_home_Spritesheet_114
+  - first:
+      213: 7076498661642575494
+    second: Avatar_home_Spritesheet_115
+  - first:
+      213: -6589277693627468718
+    second: Avatar_home_Spritesheet_116
+  - first:
+      213: -6495549534961086332
+    second: Avatar_home_Spritesheet_117
+  - first:
+      213: 5604438503245894525
+    second: Avatar_home_Spritesheet_118
+  - first:
+      213: -8880391391584915811
+    second: Avatar_home_Spritesheet_119
+  - first:
+      213: -8888914401871447730
+    second: Avatar_home_Spritesheet_120
+  - first:
+      213: 8616043302875843210
+    second: Avatar_home_Spritesheet_121
+  - first:
+      213: -78024213659661559
+    second: Avatar_home_Spritesheet_122
+  - first:
+      213: -2636339248487548720
+    second: Avatar_home_Spritesheet_123
+  - first:
+      213: 3214062600769728018
+    second: Avatar_home_Spritesheet_124
+  - first:
+      213: 4652093601133922671
+    second: Avatar_home_Spritesheet_125
+  - first:
+      213: 6603562977205119331
+    second: Avatar_home_Spritesheet_126
+  - first:
+      213: 8777038992378025732
+    second: Avatar_home_Spritesheet_127
+  - first:
+      213: -1403205023397888920
+    second: Avatar_home_Spritesheet_128
+  - first:
+      213: -4525674013286888600
+    second: Avatar_home_Spritesheet_129
+  - first:
+      213: -6777451833937235811
+    second: Avatar_home_Spritesheet_130
+  - first:
+      213: -7458964398980022832
+    second: Avatar_home_Spritesheet_131
+  - first:
+      213: 1044336033542069389
+    second: Avatar_home_Spritesheet_132
+  - first:
+      213: 8492276720828850146
+    second: Avatar_home_Spritesheet_133
+  - first:
+      213: -2643613691356794115
+    second: Avatar_home_Spritesheet_134
+  - first:
+      213: -8216482754483582704
+    second: Avatar_home_Spritesheet_135
+  - first:
+      213: 6788638370459773409
+    second: Avatar_home_Spritesheet_136
+  - first:
+      213: -6793764011823696802
+    second: Avatar_home_Spritesheet_137
+  - first:
+      213: -7529161240823891860
+    second: Avatar_home_Spritesheet_138
+  - first:
+      213: -1544101432440147862
+    second: Avatar_home_Spritesheet_139
+  - first:
+      213: 2801015586761644116
+    second: Avatar_home_Spritesheet_140
+  - first:
+      213: -2875930751154489330
+    second: Avatar_home_Spritesheet_141
+  - first:
+      213: 2525850807453077589
+    second: Avatar_home_Spritesheet_142
+  - first:
+      213: -6222473299617660618
+    second: Avatar_home_Spritesheet_143
+  - first:
+      213: 4101382173571959840
+    second: Avatar_home_Spritesheet_144
+  - first:
+      213: 3536492600869816803
+    second: Avatar_home_Spritesheet_145
+  - first:
+      213: 1138968885838139382
+    second: Avatar_home_Spritesheet_146
+  - first:
+      213: 8742039504357601148
+    second: Avatar_home_Spritesheet_147
+  - first:
+      213: 3126684772130016258
+    second: Avatar_home_Spritesheet_148
+  - first:
+      213: 3094868444339068551
+    second: Avatar_home_Spritesheet_149
+  - first:
+      213: -2765365435219335222
+    second: Avatar_home_Spritesheet_150
+  - first:
+      213: -4694885915274606992
+    second: Avatar_home_Spritesheet_151
+  - first:
+      213: -7753388419890943791
+    second: Avatar_home_Spritesheet_152
+  - first:
+      213: -6125833150762169936
+    second: Avatar_home_Spritesheet_153
+  - first:
+      213: 273543636830401680
+    second: Avatar_home_Spritesheet_154
+  - first:
+      213: 4355191798738721319
+    second: Avatar_home_Spritesheet_155
+  - first:
+      213: -9213813835854205665
+    second: Avatar_home_Spritesheet_156
+  - first:
+      213: -4125911432483451279
+    second: Avatar_home_Spritesheet_157
+  - first:
+      213: -3321402524574379214
+    second: Avatar_home_Spritesheet_158
+  - first:
+      213: -1650095519911511137
+    second: Avatar_home_Spritesheet_159
+  - first:
+      213: 3312390586523927800
+    second: Avatar_home_Spritesheet_160
+  - first:
+      213: -3446309676650776992
+    second: Avatar_home_Spritesheet_161
+  - first:
+      213: -4981073469203117931
+    second: Avatar_home_Spritesheet_162
+  - first:
+      213: -3072543475602753892
+    second: Avatar_home_Spritesheet_163
+  - first:
+      213: 2198220054471848842
+    second: Avatar_home_Spritesheet_164
+  - first:
+      213: 3066693076882457231
+    second: Avatar_home_Spritesheet_165
+  - first:
+      213: -4000190669920905629
+    second: Avatar_home_Spritesheet_166
+  - first:
+      213: 3978127743405559458
+    second: Avatar_home_Spritesheet_167
+  - first:
+      213: -9186461471813310771
+    second: Avatar_home_Spritesheet_168
+  - first:
+      213: -3087945063689577936
+    second: Avatar_home_Spritesheet_169
+  - first:
+      213: -1124536774349372712
+    second: Avatar_home_Spritesheet_170
+  - first:
+      213: 4201471334605414494
+    second: Avatar_home_Spritesheet_171
+  - first:
+      213: -4919224232395110837
+    second: Avatar_home_Spritesheet_172
+  - first:
+      213: 5250771046407797357
+    second: Avatar_home_Spritesheet_173
+  - first:
+      213: 9116839867843453182
+    second: Avatar_home_Spritesheet_174
+  - first:
+      213: 899918969828402880
+    second: Avatar_home_Spritesheet_175
+  - first:
+      213: 6859584588638497433
+    second: Avatar_home_Spritesheet_176
+  - first:
+      213: -9022537858427767642
+    second: Avatar_home_Spritesheet_177
+  - first:
+      213: -5922208147900357466
+    second: Avatar_home_Spritesheet_178
+  - first:
+      213: 4832840623779696110
+    second: Avatar_home_Spritesheet_179
+  - first:
+      213: -5096218926652980820
+    second: Avatar_home_Spritesheet_180
+  - first:
+      213: -1258898969379606291
+    second: Avatar_home_Spritesheet_181
+  - first:
+      213: -7932314620317928915
+    second: Avatar_home_Spritesheet_182
+  - first:
+      213: -8282877204134347119
+    second: Avatar_home_Spritesheet_183
+  - first:
+      213: 6582791638441009219
+    second: Avatar_home_Spritesheet_184
+  - first:
+      213: -4483699677766109602
+    second: Avatar_home_Spritesheet_185
+  - first:
+      213: 4912979153939933691
+    second: Avatar_home_Spritesheet_186
+  - first:
+      213: 632237990996084730
+    second: Avatar_home_Spritesheet_187
+  - first:
+      213: 3366167146447662454
+    second: Avatar_home_Spritesheet_188
+  - first:
+      213: -8198224591575668920
+    second: Avatar_home_Spritesheet_189
+  - first:
+      213: -8737108068000175375
+    second: Avatar_home_Spritesheet_190
+  - first:
+      213: -6846664862081237377
+    second: Avatar_home_Spritesheet_191
+  - first:
+      213: -8541591513744034291
+    second: Avatar_home_Spritesheet_192
+  - first:
+      213: 7841200102126795346
+    second: Avatar_home_Spritesheet_193
+  - first:
+      213: -2447586156249177064
+    second: Avatar_home_Spritesheet_194
+  - first:
+      213: -8620612516022281082
+    second: Avatar_home_Spritesheet_195
+  - first:
+      213: -6605615725046609306
+    second: Avatar_home_Spritesheet_196
+  - first:
+      213: -844802098764177091
+    second: Avatar_home_Spritesheet_197
+  - first:
+      213: 5652062602613041151
+    second: Avatar_home_Spritesheet_198
+  - first:
+      213: -714384822241224306
+    second: Avatar_home_Spritesheet_199
+  - first:
+      213: -4545174470902692745
+    second: Avatar_home_Spritesheet_200
+  - first:
+      213: -457239277358652919
+    second: Avatar_home_Spritesheet_201
+  - first:
+      213: 2066226345406623490
+    second: Avatar_home_Spritesheet_202
+  - first:
+      213: 4638126171447949262
+    second: Avatar_home_Spritesheet_203
+  - first:
+      213: 41830649674979424
+    second: Avatar_home_Spritesheet_204
+  - first:
+      213: -4116755578597392276
+    second: Avatar_home_Spritesheet_205
+  - first:
+      213: -3851042149163621548
+    second: Avatar_home_Spritesheet_206
+  - first:
+      213: 6144262625654035567
+    second: Avatar_home_Spritesheet_207
+  - first:
+      213: 3320736763800504027
+    second: Avatar_home_Spritesheet_208
+  - first:
+      213: 6935818920906840289
+    second: Avatar_home_Spritesheet_209
+  - first:
+      213: -6351536632561807450
+    second: Avatar_home_Spritesheet_210
+  - first:
+      213: 6772212785541359518
+    second: Avatar_home_Spritesheet_211
+  - first:
+      213: -3330761733258503680
+    second: Avatar_home_Spritesheet_212
+  - first:
+      213: 3701801446226173449
+    second: Avatar_home_Spritesheet_213
+  - first:
+      213: -612369875487865107
+    second: Avatar_home_Spritesheet_214
+  - first:
+      213: -2526878186063834652
+    second: Avatar_home_Spritesheet_215
+  - first:
+      213: 5749282255298896459
+    second: Avatar_home_Spritesheet_216
+  - first:
+      213: 320060146376513560
+    second: Avatar_home_Spritesheet_217
+  - first:
+      213: -7015613779958899290
+    second: Avatar_home_Spritesheet_218
+  - first:
+      213: -3850552453381793506
+    second: Avatar_home_Spritesheet_219
+  - first:
+      213: -3332090406742480053
+    second: Avatar_home_Spritesheet_220
+  - first:
+      213: 8296312015669956956
+    second: Avatar_home_Spritesheet_221
+  - first:
+      213: 429624133904313239
+    second: Avatar_home_Spritesheet_222
+  - first:
+      213: -4383933483292277740
+    second: Avatar_home_Spritesheet_223
+  - first:
+      213: -1511503752494871544
+    second: Avatar_home_Spritesheet_224
+  - first:
+      213: -4057345354361513358
+    second: Avatar_home_Spritesheet_225
+  - first:
+      213: 969221707127603488
+    second: Avatar_home_Spritesheet_226
+  - first:
+      213: 6434821507438207616
+    second: Avatar_home_Spritesheet_227
+  - first:
+      213: 4535877815875957025
+    second: Avatar_home_Spritesheet_228
+  - first:
+      213: -1306425554065363407
+    second: Avatar_home_Spritesheet_229
+  - first:
+      213: -8464255395313822363
+    second: Avatar_home_Spritesheet_230
+  - first:
+      213: -3617251928178457165
+    second: Avatar_home_Spritesheet_231
+  - first:
+      213: 7457829746232954182
+    second: Avatar_home_Spritesheet_232
+  - first:
+      213: 3842243565322090520
+    second: Avatar_home_Spritesheet_233
+  - first:
+      213: 1142714571798646940
+    second: Avatar_home_Spritesheet_234
+  - first:
+      213: -6078178804900018442
+    second: Avatar_home_Spritesheet_235
+  - first:
+      213: 7625113164011153236
+    second: Avatar_home_Spritesheet_236
+  - first:
+      213: 8692765593788529926
+    second: Avatar_home_Spritesheet_237
+  - first:
+      213: 5045918818144002145
+    second: Avatar_home_Spritesheet_238
+  - first:
+      213: 6991190157439069222
+    second: Avatar_home_Spritesheet_239
+  - first:
+      213: 4615113886526546930
+    second: Avatar_home_Spritesheet_240
+  - first:
+      213: 6495726663074496481
+    second: Avatar_home_Spritesheet_241
+  - first:
+      213: 1203485371646913314
+    second: Avatar_home_Spritesheet_242
+  - first:
+      213: 7069950279862536180
+    second: Avatar_home_Spritesheet_243
+  - first:
+      213: 3227088860963614270
+    second: Avatar_home_Spritesheet_244
+  - first:
+      213: -2015704277386572782
+    second: Avatar_home_Spritesheet_245
+  - first:
+      213: 9037246817542154700
+    second: Avatar_home_Spritesheet_246
+  - first:
+      213: 2027172975557812054
+    second: Avatar_home_Spritesheet_247
+  - first:
+      213: 9161776264517442156
+    second: Avatar_home_Spritesheet_248
+  - first:
+      213: -3989579655120879069
+    second: Avatar_home_Spritesheet_249
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.18128657, y: 0.51252896}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f358c1dc14b20dfb0800000000000000
+      internalID: -4625149255695432385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0365ea77fbbcdc0800000000000000
+      internalID: -3617587354915163915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a9e03cba753460800000000000000
+      internalID: 7220812526251516401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314fd51ee2e1d2d90800000000000000
+      internalID: -7121002249104526317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258daa5c9e1050be0800000000000000
+      internalID: -1511799996357617582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab357f694a7f470800000000000000
+      internalID: 8428386195948681787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a77fe466ee8c620800000000000000
+      internalID: 2794745691962309173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d963330d92b7cf70800000000000000
+      internalID: 9207524350615579090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e156563f2ba230800000000000000
+      internalID: 3651063833336866725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e162a55c2cc8610800000000000000
+      internalID: 1624887718450699841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec17c8837737a6d0800000000000000
+      internalID: -2979351659126776606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09815caed50f6d250800000000000000
+      internalID: 5969222642287581328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4433bbbc216e37c0800000000000000
+      internalID: -4089724566850292661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85cf3798d295bf50800000000000000
+      internalID: 6896579863335912845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da16184294f67bf80800000000000000
+      internalID: -8090875845612052051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ceff79a8edaa80800000000000000
+      internalID: -8453845110810032908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f65802840514c10800000000000000
+      internalID: 2035996777261657871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851bc5e17af36b40800000000000000
+      internalID: 5432460942632490373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b603ced99c6040800000000000000
+      internalID: 4642254497945925396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 13224
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd70a8a265239d0800000000000000
+      internalID: -2796077677939270894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70923990fb4c4dfd0800000000000000
+      internalID: -2318011583410525945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d118c12e40af55ee0800000000000000
+      internalID: -1272836420781965027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83b5fa96f5f2860800000000000000
+      internalID: 7507324011368102077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f74296ae45bff10800000000000000
+      internalID: 2304529000093220761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c91e2e7f9a53c80800000000000000
+      internalID: -8343575852505523192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfab46f0ad6751c0800000000000000
+      internalID: -4515019563321282638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992e82511c6a1bde0800000000000000
+      internalID: -1319089867628944743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccfeea697308d630800000000000000
+      internalID: 3951912493037583563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d7090dafbe4f840800000000000000
+      internalID: 5257086127521692967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3125c98aef71fe0800000000000000
+      internalID: -1218225174049844309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c8eae36090a9b40800000000000000
+      internalID: 5447676621684116542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b9473ae85ac3b0800000000000000
+      internalID: -5491479032651730547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8d9ed2c3981ba0800000000000000
+      internalID: -6117977628615012566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14daf9161d9d850800000000000000
+      internalID: 6402378562504835578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a667b3bebc57c670800000000000000
+      internalID: 8558911590969599653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b677011e0dd8f0a80800000000000000
+      internalID: -8498418043556169877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34127be23d4da6f0800000000000000
+      internalID: -671795888314510274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135afca45f1ae13a0800000000000000
+      internalID: -6692733921331796687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6806259d38e9520800000000000000
+      internalID: 2710748995136816850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 12122
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d4beb1fdadc830800000000000000
+      internalID: 4093118890147895611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9c838c103505b0800000000000000
+      internalID: -5402859278936794373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f87bb829ad8590800000000000000
+      internalID: -7670288597933033532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd7601a0f3c7640800000000000000
+      internalID: 5079003792224541835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8486b8eec01b0f0800000000000000
+      internalID: -1103086215048443730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55004bac2e9a00020800000000000000
+      internalID: 2306029800742191189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de71250599a6450800000000000000
+      internalID: 6082842816971009282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d937615890a810800000000000000
+      internalID: 1774585728575592093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4379d603d145fc0f0800000000000000
+      internalID: -1094563700084467916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8888d0c628d2350800000000000000
+      internalID: 5993590079695128820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6712a09d9159090800000000000000
+      internalID: -8028482340749478151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3896b4ad6435490800000000000000
+      internalID: -7758779829647211601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e624bd648f1a28d0800000000000000
+      internalID: -2870447158858602780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e681eb720a69b0800000000000000
+      internalID: -5086250098073606212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7dd679f22a06770800000000000000
+      internalID: 8602053613565368267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc47516007568b0800000000000000
+      internalID: -5159594626650943647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b79ed116aed4a0800000000000000
+      internalID: -6566628610980465848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759d1ebc8b00597a0800000000000000
+      internalID: -6371185304151140009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb776ca8893e7bf80800000000000000
+      internalID: -8090747961245009989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c9d69d2f0ff1d0800000000000000
+      internalID: -3314914112242596180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 11020
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449eb28b0926c7b50800000000000000
+      internalID: 6592252328268261700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826eccc4feb8c2670800000000000000
+      internalID: 8515334855352706600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f184540774e52d0800000000000000
+      internalID: -3288112130409619694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687f5c7b5768147e0800000000000000
+      internalID: -1782996137309505658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c52c587c2cf6610800000000000000
+      internalID: 1616724953447685224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82968e5400143fed0800000000000000
+      internalID: -2381488308520195800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae9789a8578b7d0800000000000000
+      internalID: -2902440721716221217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19aa9be194b4940800000000000000
+      internalID: 5281395384334848416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac3ef6b40f7e800800000000000000
+      internalID: 641745678713998003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe435235e261f6c0800000000000000
+      internalID: -4111396248281198917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59544f59501f088b0800000000000000
+      internalID: -5151852967418903147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfa5c7c29cb9a570800000000000000
+      internalID: 8478515112104538079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da3d8b1cf63f190800000000000000
+      internalID: -7929871641049060070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2fa72286def72c0800000000000000
+      internalID: -4431562476798414081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a461018edfd053be0800000000000000
+      internalID: -1498275916859566518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf6de23e8b28170800000000000000
+      internalID: 8179303159141170622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572286478872c240800000000000000
+      internalID: 4810539874383963992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b275e01c30d879d00800000000000000
+      internalID: 979406491239733035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524c95ab552001360800000000000000
+      internalID: 7138207976604156965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e07f602ce0a3fa0800000000000000
+      internalID: -5820323341919646201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 9918
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c959b905168f80f0800000000000000
+      internalID: -1112523158021645884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eff640084f31f70800000000000000
+      internalID: 9156931298041789987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd3387e2d0147a0800000000000000
+      internalID: -6394815502653071955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c0103ac659b890800000000000000
+      internalID: -7441821482863244972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ce033149b40320800000000000000
+      internalID: 2523345380914940230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c74e0d6c9df5d0800000000000000
+      internalID: -3027091382318151888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d65228bea53ce70800000000000000
+      internalID: 9134244436784803124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafaafc606323130800000000000000
+      internalID: 3544955259575794337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6245b841114dccd20800000000000000
+      internalID: 3300245796779938854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6b300bd7debf30800000000000000
+      internalID: 4593346005566189129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73610775247805b0800000000000000
+      internalID: -5401940048771718276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b23d63bb6748a0800000000000000
+      internalID: -6320965133615845115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4241910ce97d6d820800000000000000
+      internalID: 2942776483360871460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4714f562171dcd90800000000000000
+      internalID: -7075974071741835441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68482103bb30a88b0800000000000000
+      internalID: -5149299121444453242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2b2f0ed8cce62d0800000000000000
+      internalID: -3283462168570055963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4080b6716e909810800000000000000
+      internalID: 1770088794996899917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab3925504c46230800000000000000
+      internalID: 3631242726706756125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c0bdc6ab0fb060800000000000000
+      internalID: 6971303559236207732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97018f9e7861b09e0800000000000000
+      internalID: -1654203665126780807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 8816
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d25cfa4a0ed7a0800000000000000
+      internalID: -6350627107368675784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafc0748eee04db60800000000000000
+      internalID: 7769851674707939243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aa85f06499c57d0800000000000000
+      internalID: -2928297131513435524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44886b0d2883190800000000000000
+      internalID: -7982486506587011851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc4e55eab72e5b20800000000000000
+      internalID: 3124978875107265786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79921f877e6344020800000000000000
+      internalID: 2325043675424434583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4e2a0de9c153b0800000000000000
+      internalID: -5525413247891649588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c14ea6246d82fc0800000000000000
+      internalID: -3519327528040522714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4cffc0e4646b90800000000000000
+      internalID: -7249558583434785530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfdde2bffa15d780800000000000000
+      internalID: -8658985023028994123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac44e959232ca6770800000000000000
+      internalID: 8604903560559084746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3177252ce36e746f0800000000000000
+      internalID: -700338059810277613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ffba08cea08f660800000000000000
+      internalID: 7419692396980207378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c989a7d67f766010800000000000000
+      internalID: 1181772100632414661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a83fbe6b2eab40800000000000000
+      internalID: 5453343953446806612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216bb4ce84d95d90800000000000000
+      internalID: -7108416827176558298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e9bb43a06c43260800000000000000
+      internalID: 7076498661642575494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254fde069de2e84a0800000000000000
+      internalID: -6589277693627468718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d0b3ec1c2bd5a0800000000000000
+      internalID: -6495549534961086332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735e770027f6cd40800000000000000
+      internalID: 5604438503245894525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 7714
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee426641382c480800000000000000
+      internalID: -8880391391584915811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49399d627b34a480800000000000000
+      internalID: -8888914401871447730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4c45fbb5529770800000000000000
+      internalID: 8616043302875843210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bcfec146dcaeef0800000000000000
+      internalID: -78024213659661559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8ba72eb67d96bd0800000000000000
+      internalID: -2636339248487548720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6fb418e4aa9c20800000000000000
+      internalID: 3214062600769728018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69847d7b7e8f8040800000000000000
+      internalID: 4652093601133922671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696b346a8194ab50800000000000000
+      internalID: 6603562977205119331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d178f57e4ec970800000000000000
+      internalID: 8777038992378025732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c33593770d68ce0800000000000000
+      internalID: -1403205023397888920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b81d486739131c0800000000000000
+      internalID: -4525674013286888600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f9db2777a1f1a0800000000000000
+      internalID: -6777451833937235811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb28ef56f6c7890800000000000000
+      internalID: -7458964398980022832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5a61e61a3e7e00800000000000000
+      internalID: 1044336033542069389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef925ffea0aad570800000000000000
+      internalID: 8492276720828850146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b15baa5fff4bd0800000000000000
+      internalID: -2643613691356794115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01902e3b77039fd80800000000000000
+      internalID: -8216482754483582704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e967d351a6163e50800000000000000
+      internalID: 6788638370459773409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547a6b40a3b7b1a0800000000000000
+      internalID: -6793764011823696802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687d002ebb038790800000000000000
+      internalID: -7529161240823891860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 6612
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60bb3e9def329ae0800000000000000
+      internalID: -1544101432440147862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4589243f5d43fd620800000000000000
+      internalID: 2801015586761644116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0870da1834a618d0800000000000000
+      internalID: -2875930751154489330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550dfd54def9d0320800000000000000
+      internalID: 2525850807453077589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631cfe7808555a9a0800000000000000
+      internalID: -6222473299617660618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c40e75b590be830800000000000000
+      internalID: 4101382173571959840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e984a98845241130800000000000000
+      internalID: 3536492600869816803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffca9aca2e6ecf00800000000000000
+      internalID: 1138968885838139382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7faaa5ac96f15970800000000000000
+      internalID: 8742039504357601148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cce6ffb37346b20800000000000000
+      internalID: 3126684772130016258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e556be37e23fa20800000000000000
+      internalID: 3094868444339068551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ab97c9c27f99d0800000000000000
+      internalID: -2765365435219335222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0768217722a68deb0800000000000000
+      internalID: -4694885915274606992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8e5c2bf4e666490800000000000000
+      internalID: -7753388419890943791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94287943bacfaa0800000000000000
+      internalID: -6125833150762169936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09438d70d72dbc300800000000000000
+      internalID: 273543636830401680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a148cbddfb07c30800000000000000
+      internalID: 4355191798738721319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da4571225f12080800000000000000
+      internalID: -9213813835854205665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ec9148961ddb6c0800000000000000
+      internalID: -4125911432483451279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23398ae500208e1d0800000000000000
+      internalID: -3321402524574379214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 5510
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bf5320edea919e0800000000000000
+      internalID: -1650095519911511137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44b1b40b9f7fd20800000000000000
+      internalID: 3312390586523927800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0663d31cb9f3c20d0800000000000000
+      internalID: -3446309676650776992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988604121cafdab0800000000000000
+      internalID: -4981073469203117931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96f0cbecf12c55d0800000000000000
+      internalID: -3072543475602753892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a833fec2e75a18e10800000000000000
+      internalID: 2198220054471848842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f828abafa151f8a20800000000000000
+      internalID: 3066693076882457231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366588597c77c78c0800000000000000
+      internalID: -4000190669920905629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae80d80b16253730800000000000000
+      internalID: 3978127743405559458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc661cd96f1238080800000000000000
+      internalID: -9186461471813310771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a9cd0435a6525d0800000000000000
+      internalID: -3087945063689577936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2ca0403c7d460f0800000000000000
+      internalID: -1124536774349372712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5064212bef9e4a30800000000000000
+      internalID: 4201471334605414494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468891bf976bbbb0800000000000000
+      internalID: -4919224232395110837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6afa0a627c7ed840800000000000000
+      internalID: 5250771046407797357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ade48e85858e70800000000000000
+      internalID: 9116839867843453182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e14bf8872d7c00800000000000000
+      internalID: 899918969828402880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aaa88f6d3223f50800000000000000
+      internalID: 6859584588638497433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a436e70f9189c280800000000000000
+      internalID: -9022537858427767642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a972111710dda0800000000000000
+      internalID: -5922208147900357466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 4408
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed477c11f2b11340800000000000000
+      internalID: 4832840623779696110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca10a3b13e79649b0800000000000000
+      internalID: -5096218926652980820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f50aae0e778ee0800000000000000
+      internalID: -1258898969379606291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ff4941e1cae190800000000000000
+      internalID: -7932314620317928915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e3461411f4d0d80800000000000000
+      internalID: -8282877204134347119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34020b73e16ca5b50800000000000000
+      internalID: 6582791638441009219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b73316e2b6c1c0800000000000000
+      internalID: -4483699677766109602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92d7ba2886e2440800000000000000
+      internalID: 4912979153939933691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af704d26a1926c800800000000000000
+      internalID: 632237990996084730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d6a9a5f2707be20800000000000000
+      internalID: 3366167146447662454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847a2468b2e0a3e80800000000000000
+      internalID: -8198224591575668920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa66aad08e8fb680800000000000000
+      internalID: -8737108068000175375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ebf774592cbf0a0800000000000000
+      internalID: -6846664862081237377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06bbc606cb267980800000000000000
+      internalID: -8541591513744034291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a360cc2f981dc60800000000000000
+      internalID: 7841200102126795346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814aa97db5d680ed0800000000000000
+      internalID: -2447586156249177064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c9434379e6d5880800000000000000
+      internalID: -8620612516022281082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66accd10f732454a0800000000000000
+      internalID: -6605615725046609306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3128a597f8a644f0800000000000000
+      internalID: -844802098764177091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7250dbdf8207e40800000000000000
+      internalID: 5652062602613041151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 3306
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8991650acef516f0800000000000000
+      internalID: -714384822241224306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774cbab66eb4ce0c0800000000000000
+      internalID: -4545174470902692745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026eafbc4f87a9f0800000000000000
+      internalID: -457239277358652919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe38fe9e5bcac10800000000000000
+      internalID: 2066226345406623490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f898dd2fed5040800000000000000
+      internalID: 4638126171447949262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d99611cc949000800000000000000
+      internalID: 41830649674979424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60489edc985ed6c0800000000000000
+      internalID: -4116755578597392276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ab0ca1995e8ac0800000000000000
+      internalID: -3851042149163621548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6451d8ed4ec44550800000000000000
+      internalID: 6144262625654035567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6c8ee1e70a51e20800000000000000
+      internalID: 3320736763800504027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d51f9f8af04060800000000000000
+      internalID: 6935818920906840289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc546a51fcad7a0800000000000000
+      internalID: -6351536632561807450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e972d81d5abbbfd50800000000000000
+      internalID: 6772212785541359518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a99a9c9d1c6c1d0800000000000000
+      internalID: -3330761733258503680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e96576dc07f5330800000000000000
+      internalID: 3701801446226173449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6456cb7dc6087f0800000000000000
+      internalID: -612369875487865107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e15bf08da9beecd0800000000000000
+      internalID: -2526878186063834652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b422c8c00cd89cf40800000000000000
+      internalID: 5749282255298896459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8181883e105117400800000000000000
+      internalID: 320060146376513560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6add63cff6883ae90800000000000000
+      internalID: -7015613779958899290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 2204
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e195b2bd1f6109ac0800000000000000
+      internalID: -3850552453381793506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba0a2ed6902c1d0800000000000000
+      internalID: -3332090406742480053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5110df82db622370800000000000000
+      internalID: 8296312015669956956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2d40afd456f500800000000000000
+      internalID: 429624133904313239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4144c6959b32923c0800000000000000
+      internalID: -4383933483292277740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c8fdb685f060be0800000000000000
+      internalID: -1511503752494871544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a533e95e961b7c0800000000000000
+      internalID: -4057345354361513358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02140f9e10e537d00800000000000000
+      internalID: 969221707127603488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e5ef51141d4950800000000000000
+      internalID: 6434821507438207616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217cd767dca2fe30800000000000000
+      internalID: 4535877815875957025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ee07c51e4aedde0800000000000000
+      internalID: -1306425554065363407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d222409ce88a80800000000000000
+      internalID: -8464255395313822363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b583dd4980fccdc0800000000000000
+      internalID: -3617251928178457165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 8808
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d8e8314a88f7760800000000000000
+      internalID: 7457829746232954182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 9542
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818bd836a24625530800000000000000
+      internalID: 3842243565322090520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9098b349dcbbdf00800000000000000
+      internalID: 1142714571798646940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 11010
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f640ac9498f5aba0800000000000000
+      internalID: -6078178804900018442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4572a09e508d1d960800000000000000
+      internalID: 7625113164011153236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db0855048e2a870800000000000000
+      internalID: 8692765593788529926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160aee04e64b60640800000000000000
+      internalID: 5045918818144002145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 1102
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cec534862b50160800000000000000
+      internalID: 6991190157439069222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3236cb0ad2c0040800000000000000
+      internalID: 4615113886526546930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efb696fbf4752a50800000000000000
+      internalID: 6495726663074496481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba465b193a3b010800000000000000
+      internalID: 1203485371646913314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f741e242528d1260800000000000000
+      internalID: 7069950279862536180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e2b50a83ce8cc20800000000000000
+      internalID: 3227088860963614270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c432ea3a7c604e0800000000000000
+      internalID: -2015704277386572782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_246
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc921236910ca6d70800000000000000
+      internalID: 9037246817542154700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_247
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f1562b417f12c10800000000000000
+      internalID: 2027172975557812054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_248
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ada2ea8fa252f70800000000000000
+      internalID: 9161776264517442156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_home_Spritesheet_249
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 0
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322056df07a22a8c0800000000000000
+      internalID: -3989579655120879069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

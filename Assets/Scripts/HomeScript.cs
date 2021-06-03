@@ -8,10 +8,11 @@ public class HomeScript : MonoBehaviour
 {
     public static bool welcomeActive = true;
     public GameObject welcome, test1;
-    public GameObject avatar;
-    public GameObject fons;
+    public GameObject[] avatar;
+    public GameObject[] fons;
     public Texture[] fonsTexture;
     public Texture[] avatarTexture;
+    public GameObject[] animEco;
 
     /*public static List<TraduccioScript> etiquetes = new List<TraduccioScript>();
     public static string idioma;*/
@@ -21,8 +22,24 @@ public class HomeScript : MonoBehaviour
     {
         print("Fons: "+UserOptionManager.fons);
         print("Avatar: " + UserOptionManager.avatar);
-        fons.GetComponent<RawImage>().texture = fonsTexture[UserOptionManager.fons];
-        avatar.GetComponent<RawImage>().texture = avatarTexture[UserOptionManager.avatar];
+        for (var i= 0; i<fons.Length; i++)
+        {
+            fons[i].GetComponent<RawImage>().texture = fonsTexture[UserOptionManager.fons];
+        }
+        for (var j = 0; j < avatar.Length; j++)
+        {
+            avatar[j].GetComponent<RawImage>().texture = avatarTexture[UserOptionManager.avatar];
+        }
+
+        //Codi per anima l'avatar
+        if (UserOptionManager.avatar==2)
+        {
+            animEco[0].SetActive(true);
+            animEco[1].SetActive(true);
+            avatar[1].SetActive(false);
+            avatar[2].SetActive(false);
+        }
+        
 
         if (welcomeActive)
         {

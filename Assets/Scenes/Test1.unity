@@ -7449,6 +7449,60 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   exitPage: {fileID: 1676276607}
   actualPage: {fileID: 1231441719}
+--- !u!1 &511478546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 511478548}
+  - component: {fileID: 511478547}
+  m_Layer: 0
+  m_Name: testController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &511478547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511478546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2afe02a991e69d14db8787fa067dcc9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  avatar: []
+  fons:
+  - {fileID: 344278806}
+  fonsTexture:
+  - {fileID: 2800000, guid: 13d09b177aa6d1947b630bc51b9ac11c, type: 3}
+  - {fileID: 2800000, guid: 442a7cf10337e124583e5d27e83c3418, type: 3}
+  - {fileID: 2800000, guid: 110d286b1cd73ed43b5fff1fc8c59694, type: 3}
+  avatarTexture:
+  - {fileID: 2800000, guid: 8377c94bfb826274680399d2d4a4862a, type: 3}
+  - {fileID: 2800000, guid: 8377c94bfb826274680399d2d4a4862a, type: 3}
+  - {fileID: 2800000, guid: 3dc8376ddcafaec4990a6241a2ff96f4, type: 3}
+--- !u!4 &511478548
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511478546}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 540, y: 960, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &515935594
 GameObject:
   m_ObjectHideFlags: 0
