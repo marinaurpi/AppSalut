@@ -2757,7 +2757,6 @@ GameObject:
   - component: {fileID: 255219568}
   - component: {fileID: 255219567}
   - component: {fileID: 255219566}
-  - component: {fileID: 255219565}
   - component: {fileID: 255219564}
   m_Layer: 5
   m_Name: em2
@@ -2804,27 +2803,6 @@ MonoBehaviour:
   - {fileID: 1346558243}
   - {fileID: 1296794748}
   res: {fileID: 831382753}
---- !u!114 &255219565
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 255219562}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c71494066215d8f49b82ef3f2b855d4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  emotiocons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  selected: {fileID: 0}
 --- !u!114 &255219566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4087,7 +4065,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.50980395}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.7254902}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -4354,7 +4332,6 @@ GameObject:
   - component: {fileID: 323563295}
   - component: {fileID: 323563294}
   - component: {fileID: 323563293}
-  - component: {fileID: 323563292}
   - component: {fileID: 323563291}
   m_Layer: 5
   m_Name: em5
@@ -4401,27 +4378,6 @@ MonoBehaviour:
   - {fileID: 1346558243}
   - {fileID: 1296794748}
   res: {fileID: 1296794748}
---- !u!114 &323563292
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 323563289}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c71494066215d8f49b82ef3f2b855d4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  emotiocons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  selected: {fileID: 0}
 --- !u!114 &323563293
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9059,7 +9015,6 @@ GameObject:
   - component: {fileID: 731626020}
   - component: {fileID: 731626019}
   - component: {fileID: 731626022}
-  - component: {fileID: 731626021}
   - component: {fileID: 731626023}
   m_Layer: 5
   m_Name: em1
@@ -9122,27 +9077,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 731626017}
   m_CullTransparentMesh: 1
---- !u!114 &731626021
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 731626017}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c71494066215d8f49b82ef3f2b855d4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  emotiocons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  selected: {fileID: 0}
 --- !u!114 &731626022
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13223,7 +13157,6 @@ GameObject:
   - component: {fileID: 1143522540}
   - component: {fileID: 1143522539}
   - component: {fileID: 1143522538}
-  - component: {fileID: 1143522537}
   - component: {fileID: 1143522536}
   m_Layer: 5
   m_Name: em4
@@ -13270,27 +13203,6 @@ MonoBehaviour:
   - {fileID: 1346558243}
   - {fileID: 1296794748}
   res: {fileID: 1346558243}
---- !u!114 &1143522537
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1143522534}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c71494066215d8f49b82ef3f2b855d4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  emotiocons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  selected: {fileID: 0}
 --- !u!114 &1143522538
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23426,7 +23338,6 @@ GameObject:
   - component: {fileID: 1930716050}
   - component: {fileID: 1930716049}
   - component: {fileID: 1930716048}
-  - component: {fileID: 1930716047}
   - component: {fileID: 1930716046}
   m_Layer: 5
   m_Name: em3
@@ -23473,27 +23384,6 @@ MonoBehaviour:
   - {fileID: 1346558243}
   - {fileID: 1296794748}
   res: {fileID: 903853318}
---- !u!114 &1930716047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1930716044}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c71494066215d8f49b82ef3f2b855d4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  emotiocons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  selected: {fileID: 0}
 --- !u!114 &1930716048
 MonoBehaviour:
   m_ObjectHideFlags: 0

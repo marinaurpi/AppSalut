@@ -23,6 +23,7 @@ public class UIManeger : MonoBehaviour
         
     }
 
+    //funcio per canviar d'idioma tots els texts que tenen el script de TraduccioScript
     public static void activeCanviarIdioma(string lang)
     {
         idioma = lang;

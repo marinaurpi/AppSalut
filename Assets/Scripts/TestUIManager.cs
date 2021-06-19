@@ -8,6 +8,7 @@ using System.ComponentModel.Design;
 
 public class TestUIManager : MonoBehaviour
 {
+    //panels d'entrada i de sortida per poder fer les transicions corresponnets
     public RectTransform exitPage, actualPage;
 
     // Start is called before the first frame update
@@ -21,23 +22,24 @@ public class TestUIManager : MonoBehaviour
         
     }
 
-    //Arreglar funcions de transicions per a que les opcions uniques es seleccioni alguna opcio obligatoriament abans de fer next i que quan tornin en radera estigui en true
+    //funcio per anar al següent panel
     public void goNext()
     {
-        //print(selectOneOptionScript.selected);
+        //si és un panel on nomes pots escollir una opció i hi ha alguna opcio seleccionada
         if (selectOneOptionScript.selected == true && exitPage.tag == "onlyOneOption")
         {
             actualPage.gameObject.SetActive(true);
             actualPage.DOAnchorPos(Vector2.zero, 0.25f);
             exitPage.DOAnchorPos(new Vector2(-2000, 0), 0.25f);
-            //selectOneOptionScript.setValue(false);
         }
+        //si és un panel on es poden escollir més d'una opció
         else if (exitPage.tag == "multipleOptions")
         {
             actualPage.gameObject.SetActive(true);
             actualPage.DOAnchorPos(Vector2.zero, 0.25f);
             exitPage.DOAnchorPos(new Vector2(-2000, 0), 0.25f);
         }
+        //si és un panel on nomes pots escollir una opció i no hi ha cap opcio seleccionada
         else
         {
             Debug.LogWarning("Selecciona un dels botons per poder seguir.");
@@ -45,6 +47,7 @@ public class TestUIManager : MonoBehaviour
 
     }
 
+    //funcio per anar al panel anterior
     public void goBack()
     {
         selectOneOptionScript.setValue(true);

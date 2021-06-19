@@ -19,6 +19,7 @@ public class SelectOption : MonoBehaviour
         
     }
 
+    //funcio per activar i desactivar el check de les diferents opcions
     public void selectButton()
     {
         if (selected)

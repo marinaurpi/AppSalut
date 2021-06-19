@@ -6,10 +6,13 @@ using UnityEngine.UI;
 
 public class SliderScript : MonoBehaviour
 {
+    //slider elements
     public Slider sliderObject;
     public GameObject cercle;
     public GameObject barra;
+    //sprites de les diferents barres de colors
     public Sprite[] barresColors;
+    //sprites dels diferents emoticons
     public Sprite emotiAngry, emotiAngry2, emotyNormal, emotiHappy, emotiHappy2;
 
     // Start is called before the first frame update
@@ -23,6 +26,7 @@ public class SliderScript : MonoBehaviour
        
     }
 
+    //funció per canviar el color de la barra i la imatge del Handle depenent del valor del slider
     public void ValueChange()
     {
         var cercle2 = cercle.GetComponent<Image>();
