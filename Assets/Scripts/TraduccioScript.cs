@@ -9,6 +9,7 @@ public class TraduccioScript : MonoBehaviour
     public string castella;
     public string ingles;
     public bool isButton;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,9 +19,9 @@ public class TraduccioScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //CanviarIdioma();
     }
 
+    //funcio per canviar l'idioma de tots els texts amb el script TraduccioScript aplicat
     public void CanviarIdioma()
     {
         if (UIManeger.idioma=="CAT")

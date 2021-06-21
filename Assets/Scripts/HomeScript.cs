@@ -14,14 +14,11 @@ public class HomeScript : MonoBehaviour
     public Texture[] avatarTexture;
     public GameObject[] animEco;
 
-    /*public static List<TraduccioScript> etiquetes = new List<TraduccioScript>();
-    public static string idioma;*/
 
     // Start is called before the first frame update
     void Start()
     {
-        print("Fons: "+UserOptionManager.fons);
-        print("Avatar: " + UserOptionManager.avatar);
+        //codi per aplicar l'avatar i el fons seleccionat
         for (var i= 0; i<fons.Length; i++)
         {
             fons[i].GetComponent<RawImage>().texture = fonsTexture[UserOptionManager.fons];
@@ -31,7 +28,7 @@ public class HomeScript : MonoBehaviour
             avatar[j].GetComponent<RawImage>().texture = avatarTexture[UserOptionManager.avatar];
         }
 
-        //Codi per anima l'avatar
+        //Codi per animar l'avatar
         if (UserOptionManager.avatar==2)
         {
             animEco[0].SetActive(true);
@@ -40,7 +37,7 @@ public class HomeScript : MonoBehaviour
             avatar[2].SetActive(false);
         }
         
-
+        //codi per activar o no el pop-up inicial
         if (welcomeActive)
         {
             welcome.SetActive(true);
@@ -56,12 +53,14 @@ public class HomeScript : MonoBehaviour
     {
     }
 
+    //funcio per desactivar el pop-up inicial
     public void welcomeState()
     {
         welcome.SetActive(false);
         welcomeActive = false;
     }
 
+    //funcio per activar el pop-up dels tests
     public void test1State()
     {
         test1.SetActive(true);

@@ -6,19 +6,27 @@ using DG.Tweening;
 
 public class TabScript : MonoBehaviour
 {
+    //icones del tab
     public GameObject[] Icons;
+    //sprites de totes les icones quan estan seleccionades
     public Sprite[] IconsSelected;
+    //sprites de totes les icones quan no estan seleccionades
     public Sprite[] IconsNotSelected;
-    static public string lastPanelName = "home";
+    //tots els panels principal
     public RectTransform[] Panels;
+    //panel actual
     public RectTransform actualPanel;
+    //panel anterior
     RectTransform lastPanel;
+    //variables estatiques per saber el panel actual i el anterior quan vulguis
     public static string tabActual = "home";
+    static public string lastPanelName = "home";
 
 
     // Start is called before the first frame update
     void Start()
     {
+        //codi per saber el index del panel actual
         var indexPanel = 0;
         for (var i = 0; i < Panels.Length; i++)
         {
@@ -70,6 +78,7 @@ public class TabScript : MonoBehaviour
         tabActual = lastPanelTab;
     }
 
+    //funcio per poder fer les transicions corresponents entre els diferents panels principals
     public void buttonSelected()
     {
         var indexActual = 0;

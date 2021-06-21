@@ -13220,7 +13220,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &706396324
 RectTransform:
   m_ObjectHideFlags: 0
@@ -19843,8 +19843,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   butons:
-  - {fileID: 1117914187}
   - {fileID: 1567185655}
+  - {fileID: 1117914187}
   - {fileID: 1985092316}
   buton: {fileID: 1117914187}
   selectImages:
@@ -26504,8 +26504,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   butons:
-  - {fileID: 1117914187}
   - {fileID: 1567185655}
+  - {fileID: 1117914187}
   - {fileID: 1985092316}
   buton: {fileID: 1567185655}
   selectImages:
@@ -32669,7 +32669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1964954566
 RectTransform:
   m_ObjectHideFlags: 0
@@ -33000,8 +33000,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   butons:
-  - {fileID: 1117914187}
   - {fileID: 1567185655}
+  - {fileID: 1117914187}
   - {fileID: 1985092316}
   buton: {fileID: 1985092316}
   selectImages:

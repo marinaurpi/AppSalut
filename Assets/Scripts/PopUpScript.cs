@@ -5,19 +5,25 @@ using UnityEngine.UI;
 
 public class PopUpScript : MonoBehaviour
 {
+    //panel del ProfilePopUp
     public GameObject popUpPanel;
+    //input on surt l'opció actual triada
     public InputField actualInputValue;
+    //gameObject del compopnent del po-up per escollir la nova opció
     public GameObject changeInputValue;
+    //input on surt la contrassenya actual
     public InputField actualInputPassword;
+    //input on s'escriu la contrassenya per comprovar que sigui la correcte
     public InputField changeInputPassword;
+    //component actiu dins del panel ProfilePopUp
     public GameObject actualChangeValue;
 
     // Start is called before the first frame update
     void Start()
     {
+        //codi per inicialitzar els inputs del pop-up
         if (changeInputValue.tag != "chageValueArray")
         {
-            //changeInputValue.GetComponent<Text>().text = "patata";
             if (changeInputValue.GetComponentInParent<InputField>())
             {
                 changeInputValue.GetComponentInParent<InputField>().text = actualInputValue.text;
@@ -36,11 +42,13 @@ public class PopUpScript : MonoBehaviour
         
     }
 
+    //funció quan cliques el botó Canviar del pop-up
     public void canviarValor()
     {
-        //canviar valor del imput
+        //condició per si el pop-up necessita la contrassenya
         if (PopUpProfileScript.contrassenyaActive)
         {
+            //codi per canviar el valor del input dins del sub-panel Configuració dins del Perfil i desactivar el pop-up
             if (actualInputPassword.text == changeInputPassword.text)
             {
                 if (changeInputValue.tag == "chageValueArray")
@@ -67,7 +75,7 @@ public class PopUpScript : MonoBehaviour
                     }
                     else
                     {
-                        print("Selecciona la nova opcio");
+                        Debug.Log("Selecciona la nova opcio");
                     }
                 }
 
@@ -75,13 +83,13 @@ public class PopUpScript : MonoBehaviour
             }
             else
             {
-                print("p1:" + actualInputPassword.text);
-                print("p2:" + changeInputPassword.text);
-                print("el password no es el mateix");
+                Debug.LogWarning("El password no és el correcte");
             }
         }
+        //condició per si el pop-up no necessita la contrassenya
         else
         {
+            //codi per canviar el valor del input dins del sub-panel Configuració dins del Perfil i desactivar el pop-up
             if (changeInputValue.tag == "chageValueArray")
             {
                 var arr1 = changeInputValue.GetComponentsInChildren<RawImage>();
@@ -106,7 +114,7 @@ public class PopUpScript : MonoBehaviour
                 }
                 else
                 {
-                    print("Selecciona la nova opcio");
+                    Debug.Log("Selecciona la nova opcio");
                 }
             }
         }
@@ -114,15 +122,11 @@ public class PopUpScript : MonoBehaviour
         
     }
 
+    //funció quan cliques el botó Cancel.lar del pop-up
     public void exit()
     {
         popUpPanel.SetActive(false);
         changeInputPassword.text = "";
-        if (changeInputValue.tag != "chageValueArray")
-        {
-            //changeInputValue.GetComponent<Text>().text = "";
-            //changeInputValue.GetComponentInParent<InputField>().text = "afbshfg";
-        }
         actualChangeValue.SetActive(false);
     }
 }

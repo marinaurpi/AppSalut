@@ -6,6 +6,7 @@ using DG.Tweening;
 public class selfCareUIManager : MonoBehaviour
 {
     public RectTransform exitPanel, actualPanel;
+
     // Start is called before the first frame update
     void Start()
     {

@@ -6,13 +6,20 @@ using UnityEngine.UI;
 
 public class changePanelScript : MonoBehaviour
 {
+    //panel actual de la barra de navegació superior
     public RectTransform actualPanel;
+    //tots els panels de la barra de navegació superior
     public RectTransform[] Panels;
+    //ultim panel on estava
     static public string lastPanelName= "ansietatPanel";
     RectTransform lastPanel;
+    //text actual de la barra de navegació superior
     public Text actualText;
+    //tots els texts de la barra de navegació superior
     public Text[] otherText;
+    //tipografia del text seleccionat de la barra de navegació superior
     public Font actualFont;
+    //tipografia del text no seleccionat de la barra de navegació superior
     public Font otherFont;
 
     // Start is called before the first frame update
@@ -25,6 +32,8 @@ public class changePanelScript : MonoBehaviour
     {
         
     }
+
+    //Per poder fer les transicions correctement dels panels dins de la barra de navegació superior quan esta compost per més de dos sub-panels
     public void goNextOrdre()
     {
         actualPanel.gameObject.SetActive(true);
@@ -32,34 +41,8 @@ public class changePanelScript : MonoBehaviour
         var indexActual = 0;
         var indexLast = 0;
          
-            for (var j = 0; j < Panels.Length; j++)
-            {
-            /*if (lastPanelName == ""){
-                if (Panels[j].name == "missionsPanel")
-                {
-                    lastPanel = Panels[j];
-                    indexLast = j;
-                }
-                else if (Panels[j].name == "ansietatPanel")
-                {
-                    lastPanel = Panels[j];
-                    indexLast = j;
-                }
-                else if (Panels[j].name == "configuracioPanel")
-                {
-                    lastPanel = Panels[j];
-                    indexLast = j;
-                }
-
-            }
-            else
-            {
-                if (Panels[j].name == lastPanelName)
-                {
-                    lastPanel = Panels[j];
-                    indexLast = j;
-                }
-            }*/
+        for (var j = 0; j < Panels.Length; j++)
+        {
 
             if (Panels[j].name == lastPanelName)
             {
